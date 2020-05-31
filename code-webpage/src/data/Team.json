@@ -1,0 +1,44 @@
+[
+    {
+        "memberId": 1,
+        "name": "Tomás Ramírez",
+        "track": "Web Development",
+        "abilities": "Build front-end websites with HTML, CSS, JS, ReactJS and GatsbyJS.",
+        "src": "../images/Team/tomas.jpg"
+    },
+    {
+        "memberId": 2,
+        "name": "Sina Reimers",
+        "track": "Data Science",
+        "abilities": "Basic knowledge with Python, applying machine learning models, data visualization.",
+        "src": "../images/Team/sina.jpg"
+    },
+    {
+        "memberId": 3,
+        "name": "Jennifer Waldmann",
+        "track": "User Experience (UX)",
+        "abilities": "Design process, ideation, sketching, personas, scenarios, wireframing, prototyping with Figma.",
+        "src": "../images/Team/jennifer.jpg"
+    },
+    {
+        "memberId": 4,
+        "name": "Tomás Ramírez",
+        "track": "Web Development",
+        "abilities": "Habilidades",
+        "src": "../images/Team/test.jpg"
+    },
+    {
+        "memberId": 5,
+        "name": "Tomás Ramírez",
+        "track": "Web Development",
+        "abilities": "Habilidades",
+        "src": "../images/Team/test.jpg"
+    },
+    {
+        "memberId": 6,
+        "name": "Tomás Ramírez",
+        "track": "Web Development",
+        "abilities": "Habilidades",
+        "src": "../images/Team/test.jpg"
+    }
+]

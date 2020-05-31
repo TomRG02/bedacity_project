@@ -1,0 +1,52 @@
+/* Color del navbar */
+#navbar-color {
+    background-color: lightblue;
+}
+
+/* Estilo del logo */
+.navbar-brand {
+    color: #ffffff;
+    font-size: 1.2rem;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 1rem;
+    margin-right: 2rem;        
+}
+.navbar-brand:hover {    
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Estilo de los items */
+.nav-item {
+    color: #3C64B1;
+    font-size: 1rem;
+    margin-right: 1.3rem;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.5rem;
+}
+.nav-item:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+.active-nav-item {
+    background-color: #3C64B145;
+    color: #ffffff;
+    padding: 0.5rem;
+    border-radius: 0.4rem;
+}
+
+/* Estilo login*/
+.login {
+    color: #3C64B1;
+    font-size: 1rem;
+    font-weight: 500;
+}
+.avatar {
+    background-color: #000000;
+}
+
+body {
+    padding-top: 4.5rem;
+}
