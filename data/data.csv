@@ -1,0 +1,1182 @@
+,krankenhausStandort/bezeichnung,bettenStatus/statusHighCare,krankenhausStandort/position/latitude,krankenhausStandort/position/longitude,free_icu_beds_percent,staff_utilization_percent
+0,"Städtisches Klinikum Dresden, Städtisches Klinikum Dresden - Standort Friedrichstadt",VERFUEGBAR,51.059519822296,13.718164444035,55,99
+1,Diakonissenkrankenhaus Dresden,VERFUEGBAR,51.062785106656,13.761285781893001,64,96
+2,"Städtisches Klinikum Dresden, Städtisches Klinikum Dresden - Standort Neustadt/Trachau",VERFUEGBAR,51.089995839126,13.70900201804,65,91
+3,Herzzentrum Dresden,VERFUEGBAR,51.058086530837,13.77770733835,40,99
+4,"Krankenhaus St. Joseph-Stift Dresden GmbH, Krankenhaus St. Joseph-Stift Dresden",VERFUEGBAR,51.047260729446,13.761893731153,60,94
+5,"Universitätsklinikum Carl Gustav Carus an der TU Dresden, Universitätsklinikum Carl Gustav Carus an der TU Dresden, Fetscherstr. 74, 01307 Dresden",VERFUEGBAR,51.05681908786801,13.781290769675,38,93
+6,ELBLANDKLINIKUM Radebeul,VERFUEGBAR,51.108144839836996,13.651184320434,45,96
+7,"ASKLEPIOS-ASB Klinik Radeberg, Asklepios-ASB Klinik Radeberg",VERFUEGBAR,51.123693142487,13.930238020471,37,92
+8,ELBLANDKLINIKUM Riesa,VERFUEGBAR,51.296177141948995,13.310297012313,47,94
+9,"Fachkrankenhaus Coswig, Hauptstandort",VERFUEGBAR,51.131220411480996,13.593594074282,59,97
+10,ELBLANDKLINIKUM Meißen,VERFUEGBAR,51.174052457982995,13.505172774192,37,93
+11,"Helios Weißeritztal-Kliniken, Freital",VERFUEGBAR,50.991660570445006,13.645339464893,60,92
+12,"Rudolf Presl GmbH & Co. Klinik Bavaria Rehabilitations KG, Standort Kreischa",VERFUEGBAR,50.947148070141,13.767353491858001,65,94
+13,"Helios Klinikum Pirna, Hauptstandort",VERFUEGBAR,50.958528092101,13.953896284202001,63,93
+14,Krankenhaus Bischofswerda,VERFUEGBAR,51.136227631721,14.178518414465001,43,94
+15,"Malteser Sachsen Brandenburg gemeinnützige GmbH, Malteser Krankenhaus St. Johannes",VERFUEGBAR,51.264083323859,14.123152256143,42,94
+16,"Klinikum Niederlausitz GmbH, Klinikum Niederlausitz GmbH - Standort Senftenberg",VERFUEGBAR,51.527581013423,14.001064538987999,44,93
+17,"Klinikum Oberlausitzer Bergland gemeinnützige GmbH, Standort Ebersbach",VERFUEGBAR,51.005066756339,14.569731540978001,42,93
+18,"Klinikum Oberlausitzer Bergland gemeinnützige GmbH, Standort Zittau",VERFUEGBAR,50.899258108901996,14.820976951160002,50,94
+19,Malteser Krankenhaus St. Carolus,VERFUEGBAR,51.144222574099,14.939101695818,37,92
+20,Städt. Klinikum Görlitz gGmbH,VERFUEGBAR,51.161540703266,14.969681301154,40,93
+21,"Diakonissenkrankenhaus Dresden, Krankenhaus Emmaus Niesky",VERFUEGBAR,51.29418797387,14.817899107966001,54,100
+22,Kreiskrankenhaus Weißwasser gemeinnützige GmbH,VERFUEGBAR,51.502859134328006,14.630971670249,50,99
+23,"Lausitzer Seenland Klinikum, Hauptstandort",VERFUEGBAR,51.441829145466,14.272666096703999,39,100
+24,"Carl-Thiem-Klinikum Cottbus gGmbH, Hauptstandort",VERFUEGBAR,51.743884735622,14.322839498454002,60,94
+25,"Sana-Herzzentrum Cottbus GmbH, Sana-Herzzentrum Cottbus",VERFUEGBAR,51.74397854379001,14.318937836531001,48,92
+26,Lausitz Klinik Forst,VERFUEGBAR,51.754308149705,14.639821887049001,61,96
+27,"Naemi-Wilke-Stift, Hauptstandort",VERFUEGBAR,51.945977756306,14.714145898687999,57,93
+28,"Elbe-Elster-Klinikum GmbH, Elbe-Elster Klinikum Finsterwalde",VERFUEGBAR,51.635379882902,13.698356866771,56,96
+29,Universitätsklinikum Leipzig AöR,VERFUEGBAR,51.331383154482005,12.386209113038001,47,91
+30,"Klinikum St.Georg Leipzig, Hauptstandort Leipzig Eutritzsch",VERFUEGBAR,51.383359115198004,12.380169153148,46,93
+31,"Ev. Diakonissenkrankenhaus Leipzig, Hauptstandort",VERFUEGBAR,51.34312397146,12.320682585223,65,91
+32,"Klinikum St.Georg Leipzig, Standort Grünau des Klinikums St.Georg Leipzig",VERFUEGBAR,51.317787519255,12.301916107514998,53,94
+33,"St. Elisabeth-Krankenhaus Leipzig gGmbH, Biedermannstraße 84, 04277 Leipzig",VERFUEGBAR,51.30319757913,12.378561973310001,59,93
+34,"HELIOS Park-Klinikum, Hauptstandort",VERFUEGBAR,51.308331669107,12.436151683314,61,99
+35,"Herzzentrum Leipzig, Herzzentrum",VERFUEGBAR,51.30760564054,12.436903238231,52,95
+36,Helios Klinik Schkeuditz,VERFUEGBAR,51.394703973835,12.230794787456,40,97
+37,"Kreiskrankenhaus Delitzsch GmbH, Kreiskrankenhaus Delitzsch GmbH Klinik Delitzsch",VERFUEGBAR,51.52655842022801,12.33797859576,39,100
+38,"Klinikum Altenburger Land GmbH, Klinikum Altenburger Land",VERFUEGBAR,50.971663609429996,12.439656257629002,46,91
+39,"Muldentalkliniken GmbH - Gemeinnützige Gesellschaft, Krankenhaus Grimma",VERFUEGBAR,51.237705627622994,12.717505216533,53,99
+40,Helios Klinik Leisnig GmbH,VERFUEGBAR,51.155714433494,12.920708835150002,58,96
+41,"Klinikum Döbeln, Hauptstandort",VERFUEGBAR,51.119088064259,13.130930185253,45,93
+42,"COLLM KLINIK OSCHATZ GmbH, COLLM KLINIK OSCHATZ gmbH",VERFUEGBAR,51.29173410058699,13.114279031688001,52,96
+43,"Fachkrankenhaus Hubertusburg gGmbH Wermsdorf, Hauptstandort Wermsdorf",VERFUEGBAR,51.274474451085,12.941995382244,42,92
+44,"Muldentalkliniken GmbH - Gemeinnützige Gesellschaft, Krankenhaus Wurzen",VERFUEGBAR,51.378711899063994,12.732268094951,41,97
+45,"Kreiskrankenhaus Delitzsch GmbH, Kreiskrankenhaus Delitzsch GmbH Klinik Eilenburg",VERFUEGBAR,51.459966461964996,12.620404529644,62,99
+46,"Kreiskrankenhaus Torgau ""Johann Kentmann""",VERFUEGBAR,51.561519234504004,12.984612679675,53,98
+47,"Elbe-Elster-Klinikum GmbH, Elbe-Elster-Klinikum Elsterwerda",VERFUEGBAR,51.455925635626,13.52165293687,60,100
+48,"Elbe-Elster-Klinikum GmbH, Elbe-Elster-Klinikum Herzberg",VERFUEGBAR,51.685228368576006,13.207791566783,47,93
+49,"Krankenhaus St. Elisabeth und St. Barbara  Halle (Saale) GmbH, St. Elisabeth - Mauerstraße",VERFUEGBAR,51.478082474591,11.969155919251001,58,96
+50,"BG Klinikum Bergmannstrost Halle gGmbH, BG Klinikum Bergmannstrost",VERFUEGBAR,51.460257513815,11.984916687142999,45,96
+51,Diakoniekrankenhaus Halle gGmbH,VERFUEGBAR,51.493879487772,11.960052231898,61,95
+52,Krankenhaus Martha-Maria Halle-Dölau,VERFUEGBAR,51.503530312452,11.877161622014999,53,94
+53,"Universitätsklinikum Halle (Saale), somatischer Hauptstandort",VERFUEGBAR,51.50106510347901,11.934980928963,48,96
+54,"Carl-von-Basedow Klinikum Saalekreis gGmbH, Hauptstandort Standort Merseburg",VERFUEGBAR,51.366282965409,11.994037270579,61,93
+55,"Carl-von-Basedow Klinikum Saalekreis gGmbH, Standort Querfurt",VERFUEGBAR,51.370392270886,11.60737538341,45,93
+56,"HELIOS Kliniken Mansfeld-Südharz GmbH, HELIOS Klinik Lutherstadt Eisleben",VERFUEGBAR,51.53262545889,11.541689908272,44,94
+57,"HELIOS Kliniken Mansfeld-Südharz GmbH, HELIOS Klinik Hettstedt",VERFUEGBAR,51.660287287341006,11.493651813298,51,91
+58,"AMEOS Klinikum Bernburg GmbH, AMEOS Klinikum Bernburg",VERFUEGBAR,51.782026341313,11.735441207165,37,92
+59,"Harzklinikum Dorothea Christiane Erxleben GmbH, Harzklinikum  Standort Quedlinburg",VERFUEGBAR,51.795329141617,11.163533091594,56,100
+60,"Lungenklinik Ballenstedt/Harz, Lungenklinik Ballenstedt GmbH",VERFUEGBAR,51.713116912312,11.231196641857,44,96
+61,"Klinikum Burgenlandkreis GmbH, Hauptstandort Naumburg (Saale-Unstrut Klinikum Naumburg)",VERFUEGBAR,51.160971987144,11.814169406171,41,91
+62,"Asklepios Kliniken Weißenfels-Hohenmölsen GmbH, Asklepios Klinik Weißenfels",VERFUEGBAR,51.193821231331995,11.956809282237,55,99
+63,"Klinikum Burgenlandkreis GmbH, Standort Zeitz (Georgius-Agricola Klinikum Zeitz)",VERFUEGBAR,51.031207894931,12.159294604862001,61,92
+64,Gesundheitszentrum Bitterfeld/Wolfen gGmbH,VERFUEGBAR,51.633728236012004,12.333817779654,45,92
+65,"Diakonissenkrankenhaus Dessau gemeinnützige GmbH, Hauptstandort",VERFUEGBAR,51.837731533843005,12.226864278299999,48,98
+66,"Städtisches Klinikum Dessau, Hauptstandort",VERFUEGBAR,51.815733630652,12.197617471202,58,96
+67,"MediClin Herzzentrum Coswig, Herzzentrum Coswig",VERFUEGBAR,51.877967995862,12.477286577159,51,98
+68,"Evangelisches Krankenhaus Paul Gerhardt Stift, Paul Gerhardt Stift - Hauptgebäude (Haus 1)",VERFUEGBAR,51.870511171937,12.656023085101,52,99
+69,"SRH Wald-Klinikum Gera, Hauptstandort",VERFUEGBAR,50.868588042918994,12.052145719463,63,94
+70,"Waldkliniken Eisenberg GmbH, Hauptstandort",VERFUEGBAR,50.957495810086,11.882682647555999,50,94
+71,"Universitätsklinikum Jena, Standort Jena Lobeda",VERFUEGBAR,50.885268754734,11.621468782358999,59,98
+72,Kreiskrankenhaus Greiz GmbH,VERFUEGBAR,50.663519684413004,12.197972059184,59,96
+73,"Heinrich-Braun-Kinikum gemeinnützige GmbH, Standort Zwickau",VERFUEGBAR,50.72295103401301,12.434322523832,48,95
+74,"Kliniken Erlabrunn gGmbH, Hauptstandort",VERFUEGBAR,50.473859853852,12.708371628541999,47,100
+75,"Pleißental-klinik GmbH, Hauptstandtort",VERFUEGBAR,50.74193616942,12.366416394742998,39,99
+76,Helios Vogtland-Klinikum Plauen,VERFUEGBAR,50.492359253378,12.152829945071002,52,91
+77,"Paracelsus-Klinik Adorf/Schöneck, Standort Adorf",VERFUEGBAR,50.328892551012004,12.289963406138,61,97
+78,"Klinikum Chemnitz gGmbH, Chemnitz Flemmingstraße/Bürgerstraße",VERFUEGBAR,50.844500828504,12.88633739945,48,96
+79,"DRK Krankenhaus Chemnitz-Rabenstein, DRK Krankenhaus Chemnitz Rabenstein",VERFUEGBAR,50.820971422274,12.825703382623,43,98
+80,Zeisigwaldkliniken Bethanien Chemnitz,VERFUEGBAR,50.840603646608,12.962685406192,48,97
+81,DIAKOMED- Diakoniekrankenhaus Chemnitzer Land gGmbH,VERFUEGBAR,50.882904775937995,12.792461693271001,65,96
+82,"EKA Erzgebirgsklinikum Annaberg gGmbH, Hauptstandort",VERFUEGBAR,50.592154611488,13.006987237909,61,93
+83,"Klinikum Mittleres Erzgebirge gGmbH, Haus Olbernhau, Klinikum Mittleres Erzgebirge, Haus Olbrnhau",VERFUEGBAR,50.654210270345004,13.347656965289,54,100
+84,Kreiskrankenhaus Freiberg gGmbH,VERFUEGBAR,50.920546649356005,13.350871324474001,55,91
+85,"Landkreis Mittweida Krankenhaus gGmbH, Krankenhaus Mittweida",VERFUEGBAR,50.981105845761995,12.984504606575001,42,92
+86,"Alexianer St. Hedwig Kliniken Berlin GmbH, Alexianer St. Hedwig-Krankenhaus",VERFUEGBAR,52.525902143358,13.397046089303,43,92
+87,"Bundeswehrkrankenhaus Berlin, Hauptstandort",VERFUEGBAR,52.53491889392,13.369843125311,59,94
+88,"Charité Universitätsmedizin Berlin, Hauptstandort Charité Universitätsmedizin Berlin",VERFUEGBAR,52.523669697726,13.378229856426001,43,96
+89,"Vivantes ? Netzwerk für Gesundheit GmbH, Klinikum im Friedrichshain",VERFUEGBAR,52.524480767484995,13.438961398661,43,92
+90,"Ev. Krankenhaus Königin Elisabeth Herzberge, Evangelisches Krankenhaus Königin Elisabeth Herzberge gGmbH",VERFUEGBAR,52.526881250383994,13.508368358016,41,95
+91,Sana Klinikum Lichtenberg,VERFUEGBAR,52.51403363081899,13.494809389049001,38,96
+92,Sankt Gertrauden-Krankenhaus GmbH,VERFUEGBAR,52.481244738319,13.317197799879,45,92
+93,"Ev. Elisabeth Klinik Krankenhausbetriebs gGmbH, Hauptstandort",VERFUEGBAR,52.503591063132,13.364198362742,65,95
+94,"Franziskus-Krankenhaus Berlin, Hauptstandort",VERFUEGBAR,52.506386600175,13.345417857563,59,92
+95,"Vivantes ? Netzwerk für Gesundheit GmbH, Klinikum Am Urban",VERFUEGBAR,52.494626963901,13.409019953042,39,93
+96,"St. Joseph Krankenhaus Berlin-Tempelhof, Hauptstandort",VERFUEGBAR,52.47864928953901,13.372827565454,61,93
+97,"Charité Universitätsmedizin Berlin, Charité Campus Benjamin Franklin",VERFUEGBAR,52.441800385762996,13.320401430065,52,99
+98,St. Marien-Krankenhaus Lankwitz,VERFUEGBAR,52.424282933774,13.348081827098,50,98
+99,"Vivantes ? Netzwerk für Gesundheit GmbH, Klinikum Neukölln",VERFUEGBAR,52.438175472559,13.458396685181999,41,91
+100,DRK Kliniken Berlin Köpenick,VERFUEGBAR,52.440261837018994,13.595804750903001,38,93
+101,"Vivantes ? Netzwerk für Gesundheit GmbH, Klinikum Kaulsdorf",VERFUEGBAR,52.505880739655,13.592644169935,60,92
+102,BG Klinikum Unfallkrankenhaus Berlin gGmbH,VERFUEGBAR,52.519049415154,13.566016137584,63,97
+103,Park-Klinik Weißensee,VERFUEGBAR,52.554889150784,13.451850056681002,42,94
+104,"Evangelische Lungenklinik Berlin, Hauptstandort",VERFUEGBAR,52.631861499326,13.505310807377,42,99
+105,"Helios Klinikum Berlin-Buch GmbH, Helios Klinikum Berlin-Buch",VERFUEGBAR,52.631418701813004,13.511301755971001,60,92
+106,"Jüdisches Krankenhaus Berlin, Krankenhaus",VERFUEGBAR,52.555278906927995,13.370569467479,55,99
+107,"Charité Universitätsmedizin Berlin, Charité Campus Virchow Klinikum",VERFUEGBAR,52.542234057016,13.347827553716,51,100
+108,DRK Kliniken Berlin Mitte,VERFUEGBAR,52.55738744394,13.37627667187,53,96
+109,"Evangelisches Waldkrankenhaus Spandau, Stadtrandstraße 555-561",VERFUEGBAR,52.56240480009,13.157562375036,50,97
+110,DRK Kliniken Berlin Westend,VERFUEGBAR,52.518886203069,13.277061760409,59,95
+111,"Paulinenhaus Krankenanstalt e.V., Paulinenkrankenhaus gGmbH",VERFUEGBAR,52.508026341004,13.233626604014999,47,97
+112,"Gemeinschaftskrankenhaus Havelhöhe gGmbH, Gemeinschaftskrankenhaus Havelhöhe",VERFUEGBAR,52.46171655277001,13.160881661733999,63,91
+113,"Immanuel Krankenhaus Berlin, Standort Berlin Wannsee",VERFUEGBAR,52.419558963744,13.164232559502,54,92
+114,Evangelisches Krankenhaus Hubertus,VERFUEGBAR,52.431348315318004,13.219185590678999,37,96
+115,"Krankenhaus Waldfriede e.V., Krankenhaus Waldfriede",VERFUEGBAR,52.444185357117995,13.240225366317,43,95
+116,"Helios Klinikum Emil von Behring GmbH, Helios Klinikum Emil von Behring",VERFUEGBAR,52.422884442758,13.25299161671,39,99
+117,"Martin-Luther-Krankenhausbetriebs GmbH, Martin-Luther-Krankenhaus",VERFUEGBAR,52.491268519874,13.292226970179,36,100
+118,"Klinikum Ernst von Bergmann, Potsdam, Klinikum Ernst von Bergmann",VERFUEGBAR,52.40041254415999,13.064531564778,42,91
+119,"Klinikum Westbrandenburg, Klinikum Westbrandenburg, Standort Potsdam",VERFUEGBAR,52.401382990772,13.065048694643,50,95
+120,"FKH für neurologische Frührehabilitation, Fachkrankenhaus für neurologische Frührehabilitation",VERFUEGBAR,52.267193219049,12.924351230257999,41,95
+121,"Havelland Kliniken GmbH, Klinik Nauen",VERFUEGBAR,52.600538808641005,12.875710487497,51,99
+122,"Havelland Kliniken GmbH, Klinik Rathenow",VERFUEGBAR,52.60710680269,12.348216533792,51,94
+123,"Klinikum Westbrandenburg, Klinikum Westbrandenburg, Standort Brandenburg a.d. Havel",VERFUEGBAR,52.4138414325,12.545166850123,65,98
+124,"Städtisches Klinikum Brandenburg GmbH, Hauptstandort",VERFUEGBAR,52.413582122023,12.546368747957999,42,100
+125,"KMG Klinikum Thüringen Brandenburg gGmbH, KMG Klinikum Luckenwalde",VERFUEGBAR,52.099865670543004,13.179556488958001,61,97
+126,"Evangelisches Krankenhaus Ludwigsfelde-Teltow gemeinnützige GmbH, Evangelisches Krankenhaus Ludwigsfelde-Teltow",VERFUEGBAR,52.311264775823005,13.258243381961,38,98
+127,Klinikum Frankfurt (Oder) GmbH,VERFUEGBAR,52.301202545139,14.483436226828001,48,96
+128,"Krankenhaus Märkisch- Oderland GmbH, Strausberg 01",VERFUEGBAR,52.589038352606,13.900924967565999,41,95
+129,"HELIOS Klinikum Bad Saarow, Helios Klinikum Bad Saarow",VERFUEGBAR,52.284712952122,14.063543915945,53,99
+130,"Immanuel Klinik Rüdersdorf, Standort Rüdersdorf",VERFUEGBAR,52.453583789123,13.772192783654,37,99
+131,"Klinikum Dahme-Spreewald GmbH, Achenbach-Krankenhaus",VERFUEGBAR,52.303515919540004,13.628643035954001,50,93
+132,"Oder-Spree Krankenhaus GmbH, Beeskow, Oder-Spree Krankenhaus",VERFUEGBAR,52.170148241181,14.241641521584999,61,99
+133,"Städtisches Krankenhaus Eisenhüttenstadt GmbH, Hauptstandort Eisenhüttenstadt",VERFUEGBAR,52.141628764554994,14.625185072455,46,93
+134,"Evangelisches Krankenhaus Luckau gGmbH, Krankenhaus",VERFUEGBAR,51.853799621812,13.703354358477002,57,100
+135,Krankenhaus Angermünde,VERFUEGBAR,53.013137300723,13.989123344618001,52,98
+136,Immanuel Klinikum Bernau Herzzentrum Brandenburg,VERFUEGBAR,52.68315170541099,13.582613663747999,48,99
+137,"Oberhavel Kliniken GmbH, Standort Oranienburg",VERFUEGBAR,52.743077973048,13.242150127871001,36,94
+138,Asklepios Klinik Birkenwerder,VERFUEGBAR,52.6914777339,13.298514604503,55,93
+139,"Oberhavel Kliniken GmbH, Standort Hennigsdorf",VERFUEGBAR,52.655552769252004,13.190437138064,47,91
+140,Oberhavel Klinik Gransee GmbH,VERFUEGBAR,52.999037967658005,13.144247111663,38,99
+141,"Ruppiner Kliniken, Ruppiner Kliniken GmbH, Hauptstandort Neuruppin",VERFUEGBAR,52.906364286635,12.797664641875999,56,100
+142,"KMG Klinikum Mitte GmbH, KMG Klinikum Mitte GmbH Klinikum Kyritz",VERFUEGBAR,52.948243551441,12.388838052684,38,95
+143,"KMG Klinikum Mitte GmbH, KMG Klinikum Mitte GmbH Klinikum Wittstock",VERFUEGBAR,53.170617526813004,12.484153032237,56,99
+144,"Dietrich-Bonhoeffer-Klinikum, Standort Neubrandenburg",VERFUEGBAR,53.544754199834,13.294242382017,37,94
+145,"DRK Krankenhaus Teterow gGmbH, DRK Krankenhaus Teterow",VERFUEGBAR,53.77684236481301,12.571374526591999,41,91
+146,"Klinik Amsee GmbH, Klinik Amsee",VERFUEGBAR,53.541900008233,12.687936008042,41,98
+147,"MediClin Müritz Klinikum, Waren",VERFUEGBAR,53.52230308637299,12.685997843382001,59,93
+148,Sana Krankenhaus Templin,VERFUEGBAR,53.119523164732,13.505943775308001,60,100
+149,Kreiskrankenhaus Prenzlau,VERFUEGBAR,53.334064923663995,13.86869430542,48,94
+150,"Asklepios Klinik Pasewalk, Hauptstandort",VERFUEGBAR,53.489375976100995,13.984293651738,52,95
+151,"AMEOS Krankenhausgesellschaft Vorpommern mbH, AMEOS Klinikum Ueckermünde",VERFUEGBAR,53.740200697820995,14.022625207916999,50,95
+152,"AMEOS Krankenhausgesellschaft Vorpommern mbH, AMEOS Klinikum Anklam",VERFUEGBAR,53.848626436477005,13.699016690271002,60,100
+153,Kreiskrankenhaus Wolgast gGmbH,VERFUEGBAR,54.052705965431,13.765961408681,46,99
+154,"Universitätsmedizin Greifswald - Körperschaft des Öffentlichen Rechts, Hauptstandort",VERFUEGBAR,54.088500891852,13.404547154886998,45,99
+155,"Klinikum Karlsburg, Hauptstandort",VERFUEGBAR,53.970694183658,13.609632611242,38,93
+156,"Universitätsmedizin Rostock, Universitätsmedizin Rostock Campus Schillingallee",VERFUEGBAR,54.085558886271,12.101712405665,56,94
+157,"Klinikum Südstadt Rostock, Hauptstandort",VERFUEGBAR,54.07175069965,12.107268333401999,56,95
+158,"Sana Krankenhaus Bad Doberan GmbH, Krankenhaus Bad Doberan",VERFUEGBAR,54.090704899466,11.905740022594,49,100
+159,"Warnow-Klinik Bützow, Hauptstandort",VERFUEGBAR,53.843853407316,11.974854540457999,49,93
+160,KMG Klinikum Güstrow GmbH,VERFUEGBAR,53.811286730588996,12.199011683497,65,95
+161,"Bodden-Kliniken Ribnitz-Damgarten GmbH, Hauptstandort",VERFUEGBAR,54.236468365403994,12.444333627836,54,98
+162,"Helios Hanseklinikum Stralsund, Helios Hanseklinikum Stralsund - Sund Hauptstandort Somatik",VERFUEGBAR,54.328989260509005,13.079763829691998,38,94
+163,Sana-Krankenhaus Rügen GmbH,VERFUEGBAR,54.419653232211,13.428819590868,60,95
+164,"MediClin Krankenhaus am Crivitzer See gGmbH, MediClin Krankenhaus am Crivitzer See",VERFUEGBAR,53.575004444812,11.648212764958,42,99
+165,"Westmecklenburg Klinikum Helene von Bülow GmbH, Krankenhaus Hagenow",VERFUEGBAR,53.434521276425,11.182369708989999,41,95
+166,"Kreiskrankenhaus Prignitz, Hauptstandort",VERFUEGBAR,53.074801173802,11.873124360973,50,99
+167,Asklepios Klinik Parchim,VERFUEGBAR,53.429704447332,11.854413338006001,56,94
+168,MediClin Krankenhaus Plau am See,VERFUEGBAR,53.47847710323,12.284199178203002,45,91
+169,Asklepios Klinik St. Georg,VERFUEGBAR,53.560321551722005,10.016164755506999,62,99
+170,"Universitätsklinikum Hamburg-Eppendorf (UKE), Hauptstandort",VERFUEGBAR,53.589913025365,9.974761963021999,56,91
+171,"AGAPLESION DIAKONIEKLINIKUM HAMBURG, Hauptstandort",VERFUEGBAR,53.571185658973,9.965228157898,50,95
+172,"Bethesda Krankenhaus Bergedorf gGmbH, Bethesda Krankenhaus Bergedorf",VERFUEGBAR,53.486210224153005,10.235927581853,54,96
+173,"Asklepios Klinikum Harburg, Hauptstandort",VERFUEGBAR,53.58801366281,9.84918791054,52,99
+174,"Helios Mariahilf Klinikum GmbH, Helios Mariahilf Klinikum Hamburg",VERFUEGBAR,53.470879874845,9.93764555451,50,93
+175,Wilhelmsburger Krankenhaus Groß-Sand,VERFUEGBAR,53.503688744911,9.985962733626,64,97
+176,Krankenhaus Buchholz,VERFUEGBAR,53.333690450088994,9.872075200065,45,99
+177,Waldklinik Jesteburg Aldag GmbH & Co. KG,VERFUEGBAR,53.319583629297,9.949818491968,63,97
+178,"Städtisches Klinikum Lüneburg gGmbH, Städtisches Klinikum Lüneburg",VERFUEGBAR,53.240545120251,10.395935296947,60,99
+179,"Krankenhaus Reinbek St. Adolf-Stift GmbH, Hauptstandort",VERFUEGBAR,53.510301099579,10.241016000591001,40,92
+180,"Johanniter-Krankenhaus Geesthacht, Hauptstandort",VERFUEGBAR,53.431633289927,10.385399043544,58,93
+181,Elbe Klinikum Buxtehude,VERFUEGBAR,53.46157479385101,9.675736963782,58,94
+182,Elbe Klinikum Stade,VERFUEGBAR,53.595440432972005,9.443376767658,37,100
+183,"Capio Krankenhaus Land Hadeln, Hauptstandort",VERFUEGBAR,53.812428563775995,8.888276338512,39,93
+184,"Asklepios Klinik Wandsbek, Asklepios klinik Wandsbek",VERFUEGBAR,53.569835328196,10.089032649994,50,100
+185,Bundeswehrkrankenhaus Hamburg,VERFUEGBAR,53.594013956273,10.074613094330001,62,93
+186,"Schön Klinik Hamburg Eilbek, Klinik",VERFUEGBAR,53.577923798759,10.054193972756,46,97
+187,"Kath. Marienkrankenhaus gGmbH, Kath. Marienkrankenhaus Hamburg",VERFUEGBAR,53.558687184753,10.030157518741,61,97
+188,"Katholisches Kinderkrankenhaus Wilhelmstift, Hauptstandort",VERFUEGBAR,53.586897568381005,10.164517521907001,62,91
+189,Israelitisches Krankenhaus Hamburg,VERFUEGBAR,53.605628446777,9.990679800494,63,94
+190,"Asklepios Klinik Barmbek, Haupstandort",VERFUEGBAR,53.606101108168,10.035914182663,46,91
+191,"Evangelisches Amalie Sieveking -Krankenhaus gGmbH, Hamburg Volksdorf",VERFUEGBAR,53.641470602664,10.151569090972,50,96
+192,"Asklepios Klinik Nord, Heidberg",VERFUEGBAR,53.674729747362,10.029191494004001,42,96
+193,Albertinen-Krankenhaus,VERFUEGBAR,53.631362490632,9.905442953241,47,98
+194,"Asklepios Westklinikum GmbH, Westklinikum",VERFUEGBAR,53.58246155793199,9.77698874467,55,93
+195,"AKK Altonaer Kinderkrankenhaus gGmbH, Hauptstandort",VERFUEGBAR,53.551159545356,9.913026809845,44,97
+196,"Asklepios Klinik Altona, Hauptstandort",VERFUEGBAR,53.554266187226,9.901287245266,37,100
+197,LungenClinic Grosshansdorf GmbH,VERFUEGBAR,53.660951156943,10.280925393072,38,91
+198,"Sana Kliniken Lübeck GmbH, Sana Klinik Lübeck Süd",VERFUEGBAR,53.848800488052,10.687592804416,60,91
+199,"Universitätsklinikum Schleswig-Holstein, Campus Lübeck",VERFUEGBAR,53.835847270403995,10.708594903235001,44,94
+200,Schön Klinik Neustadt,VERFUEGBAR,54.091120202566,10.828691482675,42,99
+201,"Sana Kliniken Ostholstein GmbH, Klinik Oldenburg",VERFUEGBAR,54.290437034750994,10.880277872019999,40,96
+202,"Segeberger Kliniken, Bad Segeberg",VERFUEGBAR,53.943459393135,10.307963669284,41,98
+203,Asklepios Klinik Bad Oldesloe,VERFUEGBAR,53.812444400356,10.363880753484,47,99
+204,Medizinische Klinik Borstel,VERFUEGBAR,53.821486110441,10.193604469168001,45,100
+205,"DRK-Krankenhaus Grevesmühlen gGmbH, Grevesmühlen",VERFUEGBAR,53.868420415716,11.183155971412,61,100
+206,"Sana HANSE-Klinikum Wismar GmbH, Standort 01 - Sana HANSE-Klinikum Wismar GmbH",VERFUEGBAR,53.884770901332,11.438175201547,51,99
+207,"Universitätsklinikum Schleswig-Holstein, Campus Kiel",VERFUEGBAR,54.329666500374,10.142877459493,59,92
+208,"Lubinus-Stiftung, Lubinus Clinicum",VERFUEGBAR,54.353174510392,10.116285771123,56,91
+209,"Städtisches Krankenhaus Kiel GmbH, Hauptstandort",VERFUEGBAR,54.32290692780501,10.117073642969,51,92
+210,"imland gGmbH, Eckernförde",VERFUEGBAR,54.482649267023,9.816604006181999,38,96
+211,Vamed Ostseeklinik Damp,VERFUEGBAR,54.586144328334,10.022007465395,63,95
+212,"FEK - Friedrich-Ebert-Krankenhaus Neumünster GmbH, Hauptstandort",VERFUEGBAR,54.06591447496199,9.992158770528,51,91
+213,"Paracelsus Kinik Henstedt-Ulzburg, Paracelsus Klinik Henstedt-Ulzburg",VERFUEGBAR,53.749384805502004,10.008263826403,51,100
+214,"imland gGmbH, Standort Rendsburg",VERFUEGBAR,54.297086924599,9.659486532146,50,92
+215,Helios Klinik Schleswig GmbH,VERFUEGBAR,54.52306787691,9.569834232461,62,93
+216,"Diakonissenkrankenhaus Flensburg, Diakonissenkrankenhaus der Ev.-luth. Diakonissenanstalt zu Flensburg",VERFUEGBAR,54.790533539761,9.426069455221,36,92
+217,"Malteser Krankenhaus St. Franziskus-Hospital, Hauptstandort",VERFUEGBAR,54.792584112360004,9.42023777965,61,93
+218,"Regio Kliniken GmbH, Regio Klinikum Elmshorn",VERFUEGBAR,53.752510201933,9.681757450234999,64,92
+219,"Klinikum Itzehoe, Itzehoe",VERFUEGBAR,53.941746464684,9.503403425151,62,92
+220,"Westküstenkliniken Brunsbüttel und Heide gGmbH, Standort Heide",VERFUEGBAR,54.199694819113,9.080427056679,45,98
+221,"Klinikum Nordfriesland gGmbH - Klinik Husum und Klinik Niebüll, Hauptstandort",VERFUEGBAR,54.482390849554996,9.051059603707,54,94
+222,"Klinikum Nordfriesland gGmbH - Klinik Niebüll, Standort Niebüll",VERFUEGBAR,54.792930503495,8.844442606005,55,91
+223,Asklepios Nordseeklinik Westerland GmbH,VERFUEGBAR,54.92532223007301,8.31349825864,52,91
+224,"Pius-Hospital Oldenburg, Pius-Hospital Georgstr. 12",VERFUEGBAR,53.143626813834,8.21041989333,55,94
+225,Evangelisches Krankenhaus Oldenburg,VERFUEGBAR,53.142667947088,8.205731391972,45,97
+226,"Klinikum Oldenburg AöR, Hauptstandort",VERFUEGBAR,53.112105072622,8.217821824574,38,92
+227,"St. Johannes-Hospital, St. Johannes Hospital",VERFUEGBAR,53.392550366892,8.139644443972,36,95
+228,"Klinikum Wilhelmshaven gGmbH, Hauptstandort",VERFUEGBAR,53.545289698041,8.082759618792,44,95
+229,"Krankenhaus Wittmund gGmbH, Krankenhaus Wittmund gGmbH, Dohuser Weg 10, 26409 Wittmund",VERFUEGBAR,53.572063928995,7.788419902308,36,97
+230,"Nordwest-Krankenhaus Sanderbusch gGmbH, Hauptstandort",VERFUEGBAR,53.506764372164,8.009217739236,47,100
+231,"Ubbo-Emmius-Klinik Norden, Klinik Norden",VERFUEGBAR,53.60076052237601,7.217868769712,54,98
+232,"Ubbo-Emmius-Klinik Aurich, Klinik Aurich",VERFUEGBAR,53.468256304166005,7.497409290072,59,95
+233,"Ammerland-Klinik GmbH, Hauptstandort",VERFUEGBAR,53.258854772451,7.917847216113,38,99
+234,"Bundeswehrkrankenhaus Westerstede, Standort Westerstede",VERFUEGBAR,53.258816264447,7.918362200244,36,98
+235,"Klinikum Emden - Hans-Susemihl-Krankenhaus gGmbH, Klinikum Emden Hauptstandort",VERFUEGBAR,53.375643708806,7.212860763057,53,99
+236,Borromäus Hospital Leer gGmbH,VERFUEGBAR,53.22912269612001,7.4454667568529995,56,93
+237,Klinikum Leer,VERFUEGBAR,53.235690761727,7.458463668954001,48,99
+238,"Marien Hospital Papenburg Aschendorf gGmbH, Marien Hospital Papenburg",VERFUEGBAR,53.077564628790995,7.396795928462,51,91
+239,"St. Bernhard-Hospital gemeinnützige GmbH, St. Bernhard-Hospital",VERFUEGBAR,53.324051347266,8.482316493464,40,99
+240,"Klinik Bassum, Klinik Bassum und Zentrum für seelische Gesundheit",VERFUEGBAR,52.844322345155,8.728390127412,65,95
+241,"AGAPLESION DIAKONIEKLINIKUM, Hauptstandort",VERFUEGBAR,53.104505059312004,9.411837101179,56,93
+242,"OsteMed Klinik Bremervörde, Hauptstandort",VERFUEGBAR,53.471387569831,9.135576009685,58,91
+243,Helios Klinik Cuxhaven GmbH,VERFUEGBAR,53.852887327478,8.69202446931,44,98
+244,AMEOS Klinikum Am Bürgerpark Bremerhaven,VERFUEGBAR,53.532427902731,8.604313015962,50,95
+245,Klinikum Bremerhaven Reinkenheide gGmbH,VERFUEGBAR,53.537686902915,8.636878319085,47,93
+246,Kreiskrankenhaus Osterholz,VERFUEGBAR,53.23344318708,8.793386220932,65,94
+247,Josef-Hospital Delmenhorst,VERFUEGBAR,53.044824908295,8.592882513885,36,98
+248,Krankenhaus Johanneum,VERFUEGBAR,52.893335764116,8.431986880132001,54,99
+249,Rotes Kreuz Krankenhaus Bremen gGmbH,VERFUEGBAR,53.069194763117,8.802890360339001,39,99
+250,Klinikum Bremen Mitte,VERFUEGBAR,53.075136342809,8.837436676058001,47,94
+251,"Krankenhaus St. Joseph-Stift GmbH, Hauptstandort",VERFUEGBAR,53.083509886869,8.836106836778999,40,96
+252,"DIAKO Ev. Diakonie-Krankenhaus gemeinnützige GmbH, Hauptstandort",VERFUEGBAR,53.12580831379001,8.745809036091,48,94
+253,"Klinikum Links der Weser, Hauptstandort",VERFUEGBAR,53.03598773022,8.818875789675,52,100
+254,"Klinikum Bremen Nord, KBN-Klinik",VERFUEGBAR,53.182259690298004,8.59454870224,37,91
+255,"Aller-Weser-Klinik gGmbH Krankenhaus Achim, Aller-Weser-Klinik Achim",VERFUEGBAR,53.018197574978,9.004619836742,46,96
+256,"Klinik Lilienthal GmbH & Co.KG, Klinik Lilienthal",VERFUEGBAR,53.149443265434996,8.907616138786,64,100
+257,Allgemeines Krankenhaus Celle,VERFUEGBAR,52.628857876836,10.085253920406,60,98
+258,"Altmark-Klinikum gGmbH, Krankenhaus Salzwedel",VERFUEGBAR,52.85646921537,11.145434886266,36,95
+259,"Capio Elbe Jeetzel Klinik Dannenberg, Capio Elbe Jeetzel Klinik",VERFUEGBAR,53.082453012108004,11.079501092418,44,94
+260,Helios Klinikum Uelzen,VERFUEGBAR,52.971664737141,10.532072371224999,50,91
+261,"Herz-Kreislauf-Klinik Bevensen, Hauptstandort",VERFUEGBAR,53.085718606891,10.604394436014001,64,98
+262,"Heidekreis-Klinikum GmbH Krankenhaus Soltau, Heidekreis-Klinikum Krankenhaus Soltau",VERFUEGBAR,52.989070611951,9.855869293115,37,95
+263,Heidekreis-Klinikum GmbH Krankenhaus Walsrode,VERFUEGBAR,52.859423053185,9.586055695945,57,91
+264,"DRK-Krankenhaus Clementinenhaus, DRK - Krankenhaus Clementinenkrankenhaus",VERFUEGBAR,52.386950101116,9.744560301287,58,91
+265,"DIAKOVERE Friederikenstift, Humboldtstr. 5",VERFUEGBAR,52.370723785107,9.724568778083,50,94
+266,"Kinder- und Jugendkrankenhaus AUF DER BULT, Hauptstandort",VERFUEGBAR,52.360189275796,9.777680003663,49,98
+267,Sophienklinik GmbH,VERFUEGBAR,52.362268389496,9.777482271129001,40,91
+268,"Medizinische Hochschule Hannover, Medizinische Hochschule Hannover - Campus",VERFUEGBAR,52.38356952366,9.806128263408,54,94
+269,Paracelsus-Klinik am Silbersee,VERFUEGBAR,52.434121822201995,9.757717609536,45,95
+270,"Johanniter-Krankenhaus Gronau GmbH, Hauptstandort",VERFUEGBAR,52.082623016026,9.76698893307,37,100
+271,AMEOS Klinikum Alfeld,VERFUEGBAR,51.994454299507,9.832406133405,59,92
+272,Helios Klinikum Hildesheim,VERFUEGBAR,52.151614552443,9.975515127117,56,94
+273,Klinikum Peine,VERFUEGBAR,52.301798687817,10.237850155681,58,96
+274,"Helios Kliniken Mittelweser GmbH- Nienburg, Helios Kliniken Mittelweser GmbH- Krankenhaus Nienburg",VERFUEGBAR,52.63551440783301,9.223802768811,36,91
+275,"AGAPLESION EV KLINIKUM SCHAUMBURG gGmbH, Hauptstandort",VERFUEGBAR,52.264749649631995,9.105277776653,53,95
+276,"AGAPLESION Ev. Bathildiskrankenhaus, AGAPLESION Ev. Bathildiskrankenhaus Bad Pyrmont",VERFUEGBAR,51.985350926225,9.273886263354,42,91
+277,"Deister-Süntel-Klinik, Bad Münder",VERFUEGBAR,52.208127711120994,9.473372340235,47,96
+278,"Katholische Hospitalvereinigung Ostwestfalen gGmbH Bielefeld, Mathilden Hospital",VERFUEGBAR,52.112178478842004,8.675173759657,49,93
+279,Lukas-Krankenhaus Bünde gGmbH,VERFUEGBAR,52.198265162611996,8.593985036011,62,97
+280,"Herz- und Diabeteszentrum Nordrhein-Westfalen, Herz- und Diabeteszentrum NRW",VERFUEGBAR,52.191836211534,8.795144140745,53,91
+281,"Klinikum Weser-Egge, St. Josef Hospital",VERFUEGBAR,51.741993251764,9.01045219277,65,94
+282,"Brüderkrankenhaus St. Josef Paderborn, Hauptstandort",VERFUEGBAR,51.710481901077,8.759543985119999,52,93
+283,"St. Vincenz-Krankenhaus GmbH, St. Vincenz",VERFUEGBAR,51.718585877981994,8.759051799807,44,96
+284,St. Johannisstift Ev. Krankenhaus Paderborn GmbH,VERFUEGBAR,51.722803060715,8.747577862814,40,96
+285,Karl-Hansen-Klinik GmbH,VERFUEGBAR,51.78248017421699,8.826894253484,60,100
+286,Klinikum Gütersloh gemeinnützige GmbH,VERFUEGBAR,51.897660201973,8.383384555586,56,95
+287,"Sankt Elisabeth Hospital GmbH, Sankt Elisabeth Hospital Gütersloh",VERFUEGBAR,51.882741502413,8.381511944449,62,98
+288,"Katholische Hospitalvereinigung Ostwestfalen gGmbH Bielefeld, Sankt Vinzenz Hospital",VERFUEGBAR,51.833002974089005,8.330376863578,52,99
+289,"Klinikum Bielefeld gem. GmbH, Klinikum Bielefeld Mitte",VERFUEGBAR,52.01434512392299,8.544199347480001,64,93
+290,"Evangelisches Klinikum Bethel gGmbH, Johannesstift",VERFUEGBAR,52.041682889224994,8.541192054781,48,99
+291,"Katholische Hospitalvereinigung Ostwestfalen gGmbH Bielefeld, Franziskus Hospital",VERFUEGBAR,52.023233817794,8.523210525709,45,94
+292,"Evangelisches Klinikum Bethel gGmbH, Bethel",VERFUEGBAR,52.013456454331,8.525701117214,53,99
+293,Elisabeth-Krankenhaus Kassel GmbH,VERFUEGBAR,51.310112318715,9.491412341595,47,100
+294,"AGAPLESION DIAKONIE KLINIKEN KASSEL gemeinnützige GmbH, AGAPLESION DIAKONIE KLINIKEN",VERFUEGBAR,51.314017098388994,9.462657451695,45,98
+295,"DRK-Kliniken Nordhessen, Wehlheiden",VERFUEGBAR,51.311906311998996,9.454094264656,56,97
+296,Klinikum Kassel,VERFUEGBAR,51.328164739627,9.509411573345,40,93
+297,"Marienkrankenhaus Kassel gemeinnützige GmbH, Marienkrankenhaus Kassel",VERFUEGBAR,51.328489882921,9.481294512716,64,93
+298,"Asklepios Schwalm-Eder-Kliniken GmbH, Schwalmstadt-Ziegenhain, Asklepios Klinikum Melsungen",VERFUEGBAR,51.137267718941004,9.539881467754,62,95
+299,"Klinikum Hann. Münden GmbH, Klinikum Hann. Münden",VERFUEGBAR,51.398310373362996,9.658112168345,36,95
+300,"Kreiskliniken Kassel, Kreisklinik Hofgeismar",VERFUEGBAR,51.495953105720005,9.369421720439,65,99
+301,"Fachklinik für Lungenerkrankungen - Philippstiftung e. V., Hauptstandort",VERFUEGBAR,51.423125734185,9.477583408388,55,99
+302,"Helios Klinikum Warburg GmbH, Hauptstandort",VERFUEGBAR,51.487498909503,9.140362143516999,45,94
+303,"St.-Marien-Hospital Marsberg, Hauptstandort",VERFUEGBAR,51.465178426346995,8.844095662232,46,96
+304,Krankenhaus Bad Arolsen,VERFUEGBAR,51.379163918467,9.007959723439999,52,98
+305,"Hessenklinik Stadtkrankenhaus Korbach gGmbH, Hauptstandort",VERFUEGBAR,51.267262415816,8.870632097121,57,95
+306,"Asklepios Kliniken Bad Wildungen GmbH, Asklepios Stadtklinik",VERFUEGBAR,51.117245594667,9.114189147622,54,94
+307,"Werner Wicker Klinik Orthopädisches Schwerpunktklinikum Werner Wicker GmbH & Co. KG, Hauptstandort",VERFUEGBAR,51.109438157874,9.085568368419,51,96
+308,"Hospital zum Heiligen Geist gGmbH, Hauptstandort",VERFUEGBAR,51.132872601761996,9.277409076576001,41,98
+309,"Asklepios Schwalm-Eder-Kliniken GmbH, Schwalmstadt-Ziegenhain, Asklepios Klinikum Schwalmstadt",VERFUEGBAR,50.922115738919004,9.25571751588,42,99
+310,"Diakonie- Krankenhaus Wehrda, Diakonie Krankenhaus Wehrda",VERFUEGBAR,50.830535859995,8.761592388219,50,93
+311,"Universitätsklinikum Gießen und Marburg GmbH, Standort Marburg, Hauptstandort",VERFUEGBAR,50.81526897788,8.805859994881999,41,95
+312,"Kreiskrankenhaus Frankenberg, Kreiskrankenhaus Frankenberg gGmbH",VERFUEGBAR,51.062222506323,8.792190223928,45,99
+313,"DRK Krankenhaus Biedenkopf, 35216 Biedenkopf",VERFUEGBAR,50.913512149301006,8.523131199181,54,94
+314,"St. Josefs Krankenhaus Balserische Stiftung gemeinnützige GmbH, St. Josefs krankenhaus Balserische Stiftung gemeinützige GmbH",VERFUEGBAR,50.579145623984004,8.668327689138,58,91
+315,"Universitätsklinikum Gießen und Marburg Standort Gießen, Universitätsklinikum Gießen und Marburg GmbH - Standort Gießen",VERFUEGBAR,50.576552378551,8.664676129802,46,95
+316,Agaplesion Evangelisches Krankenhaus Mittelhessen,VERFUEGBAR,50.592300146582005,8.649139004592,55,94
+317,"Asklepios Klinik Lich GmbH, Lich",VERFUEGBAR,50.52503006833201,8.806200742656,44,96
+318,"Klinikum Wetzlar-Braunfels, Klinikum Wetzlar",VERFUEGBAR,50.538129568608,8.52995842728,51,94
+319,Dill-Kliniken,VERFUEGBAR,50.745418303174,8.284552261512001,48,97
+320,Kreiskrankenhaus Weilburg gGmbH,VERFUEGBAR,50.485700411875,8.252862811241,55,98
+321,"Vitos Klinikum Weil-Lahn, Vitos Klinikum Weil-Lahn, Standort Weilmünster",VERFUEGBAR,50.424314854232996,8.390130043063001,52,95
+322,"Herz-Jesu-Krankenhaus Fulda gGmbH, Hauptstandort Herz-Jesu-Krankenhaus Fulda gGmbH",VERFUEGBAR,50.562437340383994,9.67408096787,58,91
+323,"Klinikum Fulda, Hauptstandort",VERFUEGBAR,50.547197450645,9.705839931949,50,91
+324,"Herz-Kreislauf-Zentrum Klinikum Hersfeld-Rotenburg GmbH, Herz-Kreislauf-Zentrum Rotenburg",VERFUEGBAR,51.004766329728,9.737370371786,53,95
+325,"Kreiskrankenhaus Rotenburg a. d. Fulda, Kreiskrankenhaus Rotenburg an der Fulda Betriebs GmbH",VERFUEGBAR,50.99543623762,9.721353238719999,43,97
+326,"Klinikum Bad Hersfeld, Seilerweg 29, 36251 Bad Hersfeld",VERFUEGBAR,50.875966135527,9.713435947878999,49,99
+327,"Kreiskrankenhaus des Vogelsbergkreises in Alsfeld GmbH, Kreiskrankenhaus des Vogelsbergkreises in Alsfeld GmbH - Hauptstandort",VERFUEGBAR,50.762536922362,9.268529757853,64,92
+328,"Krankenhaus Eichhof, Lauterbach",VERFUEGBAR,50.630089032293995,9.391265630657001,48,94
+329,Klinikum Bad Salzungen GmbH,VERFUEGBAR,50.803812514300006,10.218076944548,45,93
+330,"MEDIAN Heinrich-Mann-Klinik, MEDIAN Heinrich-Mann-Klinik Bad Liebenstein",VERFUEGBAR,50.810453429908,10.35199320313,44,99
+331,"AGAPLESION Krankenhaus Neu-Bethlehem gGmbH, AGAPLESION Krankenhaus Neu Bethlehem",VERFUEGBAR,51.540745182081004,9.943151056749999,45,97
+332,"Evangelisches Krankenhaus Göttingen-Weende gGmbH, Hauptstandort",VERFUEGBAR,51.554867818936,9.943659067285001,64,97
+333,"Universitätsmedizin Göttingen, Standort UMG",VERFUEGBAR,51.550535752979,9.942435720004,63,98
+334,"St. Martini GmbH, St. Martini Duderstadt",VERFUEGBAR,51.516566236894,10.246744930728001,51,100
+335,"Evangelisches Krankenhaus Göttingen-Weende gGmbH, Standort Lenglern",VERFUEGBAR,51.589819451566,9.873545050687,43,93
+336,Helios Albert-Schweitzer-Klinik Northeim GmbH,VERFUEGBAR,51.729420353466,9.978562116639,50,91
+337,"Klinikum Werra-Meißner GmbH, Klinikum Werra-Meißner GmbH - Standort Witzenhausen",VERFUEGBAR,51.343361885523,9.859974145897,36,92
+338,"Orthopädische Klinik Hessisch Lichtenau gGmbH, Klinik",VERFUEGBAR,51.212824209987,9.705641502096,63,96
+339,"Klinikum Werra-Meißner GmbH, Klinikum Werra-Meißner GmbH - Standort Eschwege",VERFUEGBAR,51.18258131113,10.050348758714,58,96
+340,"Eichsfeld Klinikum gGmbH, Haus St. Vinzenz Heiligenstadt",VERFUEGBAR,51.376774861669,10.141371667369,59,99
+341,"Eichsfeld Klinikum gGmbH, Haus St. Elisabeth Worbis",VERFUEGBAR,51.423598221262,10.361203640691,62,95
+342,"Eichsfeld Klinikum gGmbH, Haus Reifenstein",VERFUEGBAR,51.34724875727,10.363152801974,64,91
+343,Einbecker BürgerSpital GmbH,VERFUEGBAR,51.833754361615,9.868870139144,64,96
+344,"AGAPLESION EVANGELISCHES KRANKENHAUS HOLZMINDEN gGmbH, AGAPLESION EVANGELISCHES KRANKENHAUS Holzminden gGmbH",VERFUEGBAR,51.834643855496,9.454921960896,55,95
+345,"Klinikum Weser-Egge, St. Ansgar Krankenhaus",VERFUEGBAR,51.78536599817,9.365723597871,42,94
+346,"Krankenhaus Marienstift gGmbH, Krankenhaus Marienstift",VERFUEGBAR,52.258361923589,10.545156240496,50,94
+347,"Städtisches Klinikum Braunschweig gGmbH, Klinikum Celler Straße",VERFUEGBAR,52.27463559513699,10.502997815593,43,96
+348,"Städtisches Klinikum Braunschweig gGmbH, Klinikum Holwedestraße",VERFUEGBAR,52.265036919724,10.507718520239,52,99
+349,"Herzogin-Elisabeth-Hospital Braunschweig, Hauptstandort",VERFUEGBAR,52.233299562044,10.52669620527,59,91
+350,"Städtisches Klinikum Braunschweig gGmbH, Klinikum Salzdahlumer Straße",VERFUEGBAR,52.237874281447,10.545580565913,40,91
+351,"Helios Klinikum Salzgitter GmbH, Hauptstandort",VERFUEGBAR,52.153615720019,10.318831443818999,40,91
+352,"St. Elisabeth-Krankenhaus Salzgitter gGmbH, Haupstandort",VERFUEGBAR,52.045608337206,10.371263667957999,50,93
+353,"Städtisches Klinikum Wolfenbüttel gGmbH, Städtisches Klinikum Wolfenbüttel",VERFUEGBAR,52.180351637734006,10.533000468749,39,94
+354,Helios St. Marienberg Klinik Helmstedt GmbH,VERFUEGBAR,52.232069153103,10.999751186236999,51,93
+355,"HELIOS Klinikum Gifhorn GmbH, HELIOS Klinikum Gifhorn",VERFUEGBAR,52.496605133344005,10.548190569498,61,100
+356,Asklepios Harzklinik Goslar,VERFUEGBAR,51.928337031875,10.441874161359,38,92
+357,Asklepios Harzklinik Bad Harzburg,VERFUEGBAR,51.886155333124,10.575004398806,52,98
+358,Asklepios Kliniken Schildautal,VERFUEGBAR,51.882819847991,10.216296814942,58,91
+359,"AMEOS Klinikum Halberstadt GmbH, AMEOS Klinikum Halberstadt",VERFUEGBAR,51.901056929175994,11.054190158484001,41,97
+360,"Harzklinikum Dorothea Christiane Erxleben GmbH, Harzklinikum, Standort Wernigerode",VERFUEGBAR,51.835429468458,10.77440893655,61,92
+361,"AMEOS klinikum Schönebeck GmbH, AMEOS Klinikum Schönebeck, Standort Bad Salzelmen",VERFUEGBAR,51.996042224610996,11.716983318493,58,96
+362,"AMEOS klinikum Schönebeck GmbH, AMEOS Klinikum Schönebeck, Standort Schönebeck",VERFUEGBAR,52.012511043618005,11.737147159874,55,95
+363,"Helios Klinik Zerbst/Anhalt GmbH, Hauptstandort",VERFUEGBAR,51.960538935624,12.093541377589998,58,99
+364,"Helios Klinik Jerichower Land GmbH, Hauptstandort",VERFUEGBAR,52.264669082420994,11.832811403428,50,93
+365,"Lungenklinik Lostau gGmbH, Lostau",VERFUEGBAR,52.215771478175,11.727941751456001,56,91
+366,"AMEOS Klinikum Haldensleben GmbH, AMEOS Klinikum Haldensleben, Somatik",VERFUEGBAR,52.285076554018005,11.377711772166,43,97
+367,AGAPLESION DIAKONIEKRANKENHAUS SEEHAUSEN,VERFUEGBAR,52.882020564187,11.747451603396001,47,92
+368,"Altmark-Klinikum gGmbH, Krankenhaus Gardelegen",VERFUEGBAR,52.522739152243005,11.38251378512,60,92
+369,"St. Martinus-Krankenhaus Düsseldorf, St. Martinus-Krankenhaus",VERFUEGBAR,51.211801754488,6.760553956065,43,96
+370,Universitätsklinikum Düsseldorf,VERFUEGBAR,51.196351936376,6.789506149416,44,99
+371,"Paracelsus Klinik Golzheim, Paracelsus-Klinik Golzheim",VERFUEGBAR,51.254307612708,6.759437084329,40,96
+372,"Marien Hospital Düsseldorf GmbH, Marien Hospital Düsseldorf",VERFUEGBAR,51.235824766012,6.785360164939999,63,98
+373,"Florence-Nightingale-Krankenhaus, Kaiserswerther Diakonie        Florence-Nightingale-Krankenhaus, Kreuzbergstrasse 79, 40489 Düsseldorf",VERFUEGBAR,51.300317890771,6.749400258032,61,92
+374,"Schön Klinik Düsseldorf SE & Co. KG, Hauptstandort",VERFUEGBAR,51.231458183678996,6.727645182727,47,92
+375,"Sana Kliniken Düsseldorf, Sana Krankenhaus Gerresheim",VERFUEGBAR,51.243214833464,6.8551166295220005,44,96
+376,"St. Mauritius Therapieklinik Meerbusch gGmbH, St. Mauritius Therapieklinik Meerbusch",VERFUEGBAR,51.279306732938004,6.627281494439,37,98
+377,"St. Martinus Krankenhaus Langenfeld, St. Martinus Krankenhaus",VERFUEGBAR,51.130516832494,6.942112684283,40,93
+378,"Evangelisches Krankenhaus Mettmann GmbH, Mettmann",VERFUEGBAR,51.250740236167005,6.970764040980001,45,96
+379,"St. Marien-Krankenhaus GmbH Ratingen, Hauptstandort",VERFUEGBAR,51.300240747791996,6.852114915782,53,93
+380,"Johanniter GmbH-Ev. Krankenhaus Bethesda Mönchengladbach, Hauptstandort",VERFUEGBAR,51.198902335442,6.42537492512,44,94
+381,Kliniken Maria Hilf GmbH,VERFUEGBAR,51.218465487226,6.419624588634,61,95
+382,"Krankenhaus Neuwerk gGmbH, Mönchengladbach, 41066 Mönchengladbach, Dünner Strasse 214 - 216",VERFUEGBAR,51.224390160017,6.470275640422,59,97
+383,"Städtische Kliniken Mönchengladbach GmbH, Städtische Kliniken Mönchengladbach GmbH - Elisabeth-Krankenhaus Rheydt",VERFUEGBAR,51.158093140952,6.420085608942999,49,99
+384,Städtisches Krankenhaus Nettetal GmbH,VERFUEGBAR,51.309347754467,6.2714890670029995,65,97
+385,"Johanna Etienne Krankenhaus, Hauptstandort",VERFUEGBAR,51.213667703464004,6.658748298810001,47,99
+386,"Städtische Kliniken Neuss - Lukaskrankenhaus - GmbH, Hauptstandort",VERFUEGBAR,51.190297913877004,6.6730506419480005,36,92
+387,"Rhein-Kreis Neuss Kliniken GmbH, Kreiskrankenhaus Grevenbroich",VERFUEGBAR,51.09044480753101,6.593625336877,49,91
+388,"Rhein-Kreis Neuss Kliniken GmbH, Kreiskrankenhaus Dormagen",VERFUEGBAR,51.072726201174,6.808673322184,40,94
+389,Allgemeines Krankenhaus Viersen GmbH,VERFUEGBAR,51.251205269879996,6.382835626537,64,92
+390,"St. Irmgardis - Krankenhaus Süchteln GmbH, Viersen",VERFUEGBAR,51.285717111258,6.375237464872,60,95
+391,"Klinikverbund St. Antonius und St. Josef GmbH, Krankenhaus St. Josef",VERFUEGBAR,51.260170938981,7.143887758239,55,94
+392,"AGAPLESION Bethesda Krankenhaus Wuppertal, Hauptstandort",VERFUEGBAR,51.268150609014995,7.130713552249,46,96
+393,"Helios Klinikum Wuppertal, Helios Klinikum Wuppertal, Standort Elberfeld",VERFUEGBAR,51.250318847768,7.133939981395001,59,96
+394,"Helios Klinikum Wuppertal, Helios Klinikum Wuppertal, Standort Barmen",VERFUEGBAR,51.273843532331,7.174430608684,41,95
+395,"Klinikverbund St. Antonius und St. Josef GmbH, Petrus-Krankenhaus",VERFUEGBAR,51.275534912024,7.191768407755999,53,95
+396,"Sana Krankenhaus Radevormwald gGmbH, Sana Krankenhaus Radevormwald",VERFUEGBAR,51.19860988881,7.351010084185,52,93
+397,Helios Klinikum Niederberg,VERFUEGBAR,51.350371418841,7.01174873112,62,100
+398,"St. Lukas Klinik, Standort St. Lukas Klinik",VERFUEGBAR,51.154917017551,6.984611749649,56,98
+399,"Krankenhaus Bethanien, Hauptstandort",VERFUEGBAR,51.137942585009,7.01258504394,59,100
+400,"St. Josef Krankenhaus Haan, Standort St. Josef Krankenhaus Haan",VERFUEGBAR,51.19879476908,7.020419239998,60,93
+401,Sana-Klinikum Remscheid GmbH,VERFUEGBAR,51.161622284322995,7.188714981112,61,100
+402,"Krankenhaus Wermelskirchen GmbH, Krankenhaus Wermelskirchen",VERFUEGBAR,51.134738145629996,7.221926629527,41,91
+403,"Klinikum Dortmund gGmbH, Klinikum Dortmund gGmbH - Klinikzentrum Mitte",VERFUEGBAR,51.508734111832,7.456813037379,61,99
+404,Marien Hospital Dortmund-Hombruch,VERFUEGBAR,51.47852893464599,7.441745191804,54,97
+405,"St. Lukas Klinikum, St.-Josefs-Hospital",VERFUEGBAR,51.484835057088006,7.504727885123,60,95
+406,Hüttenhospital gGmbH,VERFUEGBAR,51.480677983394,7.509634852377,36,94
+407,"St. Lukas Klinikum, Katholisches Krankenhaus Dortmund-West",VERFUEGBAR,51.524256834301006,7.368412792666,53,93
+408,"Katholisches Klinikum Lünen/Werne, St.-Marien-Hospital",VERFUEGBAR,51.619058991070006,7.519005560316,55,95
+409,"Klinikum Westfalen GmbH - KKDO, KaP, HK, Klinik am Park Lünen",VERFUEGBAR,51.589960263977005,7.441500842588001,58,93
+410,"Evangelisches Krankenhaus Castrop-Rauxel, Krankenhaus Grutholzallee",VERFUEGBAR,51.567318189066,7.319482415942,48,94
+411,"Marien Hospital Herne, Universitätsklinikum der Ruhr-Universität Bochum, Marien Hospital Herne  - Universitätsklinikum der Ruhr-Universität Bochum",VERFUEGBAR,51.528862559831,7.225762188418,56,98
+412,"St. Anna Hospital, Hauptstandort",VERFUEGBAR,51.537445320945,7.158937633020999,55,100
+413,"Evangelisches Krankenhaus Herne, Herne-Eickel",VERFUEGBAR,51.510657213551,7.175529241595,62,99
+414,"Katholisches Klinikum Bochum gGmbH, Standort EH",VERFUEGBAR,51.482508862987004,7.22188982978,42,98
+415,"Berufsgenossenschaftliches Universitätsklinikum Bergmannsheil gGmbH, Bergmannsheil Bochum gGmbH",VERFUEGBAR,51.468139741933,7.2120126486150005,61,95
+416,"Augusta-Kranken-Anstalt gGmbH, Augusta-Kranken-Anstalt - Betriebsstelle Bochum-Mitte",VERFUEGBAR,51.485216294599,7.222674965842001,49,93
+417,"Katholisches Klinikum Bochum gGmbH, Standort JH",VERFUEGBAR,51.493922507533,7.2282679080309995,39,92
+418,Universitätsklinikum Knappschaftskrankenhaus Bochum,VERFUEGBAR,51.464353367673,7.3274281025259995,62,91
+419,"Alfried Krupp Krankenhaus Rüttenscheid, Alfried Krupp Krankenhaus Essen Rüttenscheid",VERFUEGBAR,51.426311791384,7.007736146434,53,97
+420,"Universitätsklinikum Essen, Hauptstandort",VERFUEGBAR,51.436266579469006,6.989787407219,46,92
+421,"KEM I Evang. Kliniken Essen-Mitte gGmbH, Evang. Krankenhaus Essen-Werden",VERFUEGBAR,51.389826096284,7.00573603157,54,93
+422,"Ruhrlandklinik, Westdeutsches Lungenzentrum am Universitätsklinikum Essen gGmbH",VERFUEGBAR,51.362841515128004,6.989071760327,61,100
+423,St. Josef Krankenhaus Essen-Werden GmbH,VERFUEGBAR,51.389033346782,7.00595211998,42,97
+424,"Katholische Kliniken Ruhrhalbinsel, St. Josef-Krankenhaus Kupferdreh - Hauptstandort",VERFUEGBAR,51.391509018616,7.085933268054,41,99
+425,"Alfried Krupp Krankenhaus Steele, Alfried Krupp Krankenhaus Essen Steele",VERFUEGBAR,51.449908456093,7.091539621288001,42,97
+426,"Katholisches Klinikum Essen GmbH, Marienhospital Altenessen",VERFUEGBAR,51.499476129246,7.005811795625,56,91
+427,"Katholisches Klinikum Essen GmbH, Philippusstift",VERFUEGBAR,51.475767178994,6.950350552715,40,94
+428,"Ev. Krankenhaus Mülheim GmbH, Evangelisches Krankenhaus Mülheim GmbH",VERFUEGBAR,51.424696279086,6.882788658077001,58,94
+429,"St. Marien-Hospital Mülheim an der Ruhr GmbH, Hauptstandort",VERFUEGBAR,51.425864418806,6.887203842393,48,93
+430,Evangelisches Krankenhaus Hattingen gGmbH,VERFUEGBAR,51.394113200081996,7.192757606489999,36,96
+431,"Stiftungsklinikum Proselis gGmbH, Prosper-Hospital",VERFUEGBAR,51.606482277585,7.191815078258999,51,93
+432,"Elisabeth-Krankenhaus Recklinghausen, Hauptstandort",VERFUEGBAR,51.56842089302,7.20808396416,63,91
+433,"St. Elisabeth-Hospital Herten gGmbH, Hauptstandort",VERFUEGBAR,51.592150715631,7.124275982395999,54,95
+434,"KKRN Katholisches Klinikum Ruhrgebiet Nord GmbH, Gertrudis-Hospital Westerholt",VERFUEGBAR,51.59993517091699,7.085793256792001,58,97
+435,"St. Vincenz-Krankenhaus, Krankenhaus",VERFUEGBAR,51.652308893282004,7.344830811007,55,96
+436,"KKRN Katholisches Klinikum Ruhrgebiet Nord GmbH, St. Sixtus-Hospital Haltern am See",VERFUEGBAR,51.745666700443,7.194133043322,52,100
+437,"KKRN Katholisches Klinikum Ruhrgebiet Nord GmbH, Marien-Hospital Marl",VERFUEGBAR,51.652448679853,7.083754777941,55,95
+438,"Klinikum Vest GmbH, Paracelsus-Klinik Marl",VERFUEGBAR,51.662106222311,7.123744368537,45,96
+439,"Evangelische Kliniken Gelsenkirchen GmbH, Hauptstandort",VERFUEGBAR,51.509895995494006,7.089296758159,36,91
+440,"Marienhospital Gelsenkirchen GmbH, Marienhospital Gelsenkirchen",VERFUEGBAR,51.495339621896,7.1014176160039995,55,92
+441,Bergmannsheil und Kinderklinik Buer GmbH,VERFUEGBAR,51.571311870304,7.060216623239999,56,99
+442,"Sankt Marien-Hospital Buer GmbH, Sankt Marien-Hospital Gelsenkirchen-Buer",VERFUEGBAR,51.581514913571,7.048548638803999,42,99
+443,Helios St. Elisabeth Klinik Oberhausen,VERFUEGBAR,51.461968759807995,6.854539632732,44,95
+444,"Ev. Krankenhaus Oberhausen GmbH, Evangelisches Krankenhaus Oberhausen GmbH",VERFUEGBAR,51.474229698028005,6.866135358778,49,92
+445,"Evangelisches Klinikum Niederrhein gGmbH, Johanniter Krankenhaus Oberhausen",VERFUEGBAR,51.509680648604004,6.854187659919,37,100
+446,"Katholisches Klinikum Oberhausen gGmbH, St. Clemens-Hospital",VERFUEGBAR,51.517305645458,6.844843983617,40,97
+447,Marienhospital Bottrop gGmbH,VERFUEGBAR,51.534730847329996,6.917582273418,36,94
+448,"Knappschaftskrankenhaus Bottrop GmbH, Knappschaftskrankenhaus Bottrop",VERFUEGBAR,51.514923805628996,6.907340526614,53,98
+449,"KKRN Katholisches Klinikum Ruhrgebiet Nord GmbH, St. Elisabeth-Krankenhaus  Dorsten",VERFUEGBAR,51.657104657625,6.956027984652,37,99
+450,St. Marien-Hospital Borken,VERFUEGBAR,51.842003881785004,6.8610777855250005,39,94
+451,"St. Agnes-Hospital Bocholt-Rhede, St. Agnes-Hospital Bocholt",VERFUEGBAR,51.85521940875,6.627452015909999,44,97
+452,St. Willibrord-Spital Emmerich-Rees gGmbH,VERFUEGBAR,51.832762637954,6.2401576638059995,50,98
+453,Evangelisches Krankenhaus Wesel GmbH,VERFUEGBAR,51.660077377416,6.654883503979,45,93
+454,"Sankt Josef-Hospital GmbH, Hauptstandort",VERFUEGBAR,51.643185223281,6.452771007998001,46,91
+455,"Evangelisches Klinikum Niederrhein gGmbH, Evangelisches Krankenhaus Dinslaken",VERFUEGBAR,51.55885679063599,6.731305941939,47,97
+456,"St. Vinzenz-Hospital, Tagesklinik Dinslaken",VERFUEGBAR,51.559714323832,6.7276141536419996,60,99
+457,"Evangelisches Krankenhaus BETHESDA gGmbH, Hauptstandort",VERFUEGBAR,51.416585676825,6.761754378676,48,96
+458,"Sana Kliniken Duisburg GmbH, Wedau-Kliniken",VERFUEGBAR,51.396954869070996,6.783368825945,39,91
+459,"Evangelisches Klinikum Niederrhein gGmbH, Herzzentrum Duisburg",VERFUEGBAR,51.462366481621,6.775759868323999,47,93
+460,"Helios Klinikum Duisburg, Helios St. Johannes Klinik",VERFUEGBAR,51.490235137469995,6.762057065898,42,97
+461,"Evangelisches Klinikum Niederrhein gGmbH, Evangelisches Krankenhaus Duisburg-Nord",VERFUEGBAR,51.514985564787,6.766582354903001,43,96
+462,"Malteser Klinikum Duisburg, Malteser Krankenhaus St. Johannes-Stift",VERFUEGBAR,51.453313274264005,6.7103000879620005,49,98
+463,Johanniter Krankenhaus Rheinhausen,VERFUEGBAR,51.412115820394,6.699273203703001,60,94
+464,"Malteser Klinikum Duisburg, Malteser Krankenhaus St. Anna",VERFUEGBAR,51.364504496386004,6.754266858134001,64,96
+465,"Krankenhaus Bethanien Moers, Hauptstandort Moers",VERFUEGBAR,51.460971097824,6.633981049044,50,93
+466,St. Josef Krankenhaus Moers,VERFUEGBAR,51.445547477624,6.639752465771,42,97
+467,"St. Bernhard-Hospital Kamp-Lintfort GmbH, Hauptstandort",VERFUEGBAR,51.492185739949996,6.51632380479,50,97
+468,"Katholischen Karl-Leisner-Klinikum gGmbH ? Standort St.-Antonius Hospital Kleve, Hauptstandort",VERFUEGBAR,51.77330223318,6.13640820985,39,93
+469,"Katholischen Karl-Leisner-Klinikum gGmbH, Standort Wilhelm-Anton-Hospital Goch, Hauptstandort",VERFUEGBAR,51.677209060473004,6.1812837124849995,45,95
+470,"Katholischen Karl-Leisner-Klinikum gGmbH ? Standort Marienhospital Kevelaer, Hauptstandort",VERFUEGBAR,51.584051600129996,6.249994397213,42,95
+471,"Helios Klinikum Krefeld gGmbH, Helios Klinikum Krefeld",VERFUEGBAR,51.319885882105,6.565841674346,55,92
+472,"Krankenhaus Maria-Hilf Krefeld, Standort KH Maria-Hilf Krefeld",VERFUEGBAR,51.325714777822,6.584742799409,40,92
+473,Malteser Krankenhaus St. Josefshospital,VERFUEGBAR,51.352860684367,6.648099660906,53,91
+474,"Ludgerus-Kliniken Münster GmbH, Raphaelsklinik Münster",VERFUEGBAR,51.958990841457,7.630167961252,46,97
+475,"St. Franziskus-Hospital GmbH, St. Franziskus-Hospital Münster",VERFUEGBAR,51.960632086638,7.648671448214,44,94
+476,"Ev. Krankenhaus Johannisstift, Ev.  Krankenhaus Johannisstift",VERFUEGBAR,51.972621435458,7.624717712532999,46,94
+477,Universitätsklinikum Münster,VERFUEGBAR,51.961204012648004,7.595886111849,62,93
+478,"Ludgerus-Kliniken Münster GmbH, Clemenshospital Münster",VERFUEGBAR,51.932868281317994,7.614611148965,53,100
+479,"Herz-Jesu Krankenhaus Münster-Hiltrup, Herz-Jesu-Krankenhaus Münster-Hiltrup",VERFUEGBAR,51.908610285858,7.634223461282001,57,95
+480,Josephs-Hospital Warendorf,VERFUEGBAR,51.960420529706,8.002352893336,39,95
+481,"Christophorus-Kliniken, Christophorus-Kliniken, Standort Dülmen",VERFUEGBAR,51.82741689930101,7.2801074983000005,36,97
+482,"Maria-Josef-Hospital Greven GmbH, Maria-Josef-Hospital Greven",VERFUEGBAR,52.0885556168,7.610745817415,44,93
+483,"Klinikum Rheine, Hauptstandort",VERFUEGBAR,52.276554096160005,7.424584150248999,64,91
+484,"Euregio-Klinik Albert-Schweitzer-Straße  GmbH, Euregio-Klinik Albert-Schweitzer-Straße GmbH",VERFUEGBAR,52.442743762618,7.065397202969001,47,99
+485,"UKM Marienhospital Steinfurt, UKM Marienhospital Steinfurt - Krankenhaus",VERFUEGBAR,52.126666137523,7.401268618896,52,97
+486,"St. Antonius-Hospital Gronau, Hauptstandort",VERFUEGBAR,52.208308511611,7.020679950747,47,98
+487,"Christophorus-Kliniken, Christophorus-Kliniken, Standort Coesfeld",VERFUEGBAR,51.944033404109,7.170287132394001,65,93
+488,"St. Marien-Krankenhaus Ahaus-Stadtlohn-Vreden, St. Marien-Krankenhaus Ahaus",VERFUEGBAR,52.068804968382,6.992940545115,55,94
+489,"St. Marien-Krankenhaus Ahaus-Stadtlohn-Vreden, Krankenhaus Maria-Hilf Stadtlohn",VERFUEGBAR,51.990980155958006,6.909105420145,56,96
+490,"Christliches Kinderhospital Osnabrück GmbH, Christliches Kinderhospital Osnabrück - Hauptstandort",VERFUEGBAR,52.270038404085,8.053050398794,40,97
+491,"Marienhospital Osnabrück, Hauptstandort",VERFUEGBAR,52.270250138102,8.054364144817999,60,99
+492,"Klinikum Osnabrück GmbH, Hauptstandort",VERFUEGBAR,52.277359874648,8.003710107878,52,99
+493,"Paracelsus-Klinik Osnabrück, PK Osnabrück",VERFUEGBAR,52.289221667237996,8.010202646256,50,97
+494,"Schüchtermann-Schiller`sche Kliniken Bad Rothenfelde GmbH & Co. KG, Hauptstandort",VERFUEGBAR,52.112390966026,8.165302455409,37,99
+495,"Christliches Klinikum Melle, Hauptstandort",VERFUEGBAR,52.198412712174,8.336137711985,60,94
+496,Klinik Diepholz,VERFUEGBAR,52.610730424889,8.376811936494,60,96
+497,"St. Marienhospital Vechta gemeinnützige GmbH, St. Marienhospital",VERFUEGBAR,52.725877094715,8.286903619701,53,100
+498,"St. Franziskus-Hospital gemeinnützige GmbH, St. Franziskus-Hospital gGmbh",VERFUEGBAR,52.664677896575,8.241091489726,46,97
+499,"Krankenhaus St. Elisabeth gemeinnützige GmbH, Damme",VERFUEGBAR,52.521027497434,8.194305516968,46,99
+500,"Klinikum Ibbenbüren, Hauptstandort",VERFUEGBAR,52.278697336133,7.71369731423,53,93
+501,"Niels-Stensen-Kliniken Bramsche, Hauptstandort",VERFUEGBAR,52.408978902809,7.985304772837,39,100
+502,"Marienhospital Ankum-Bersenbrück, Hauptstandort",VERFUEGBAR,52.540904562921,7.874186217769001,64,94
+503,"St. Josefs-Hospital Cloppenburg gGmbH, Notfallambulanz",VERFUEGBAR,52.847279569064,8.040354967052,43,94
+504,"Krankenhaus Ludmillenstift, Hauptstandort",VERFUEGBAR,52.68881718678799,7.292885273687,44,96
+505,"St.-Vinzenz-Hospital, Hauptstandort",VERFUEGBAR,52.670925614607,7.482884109004001,37,95
+506,Hümmling Hospital Sögel,VERFUEGBAR,52.84370268767,7.519742622971999,61,98
+507,Bonifatius Hospital Lingen gGmbH,VERFUEGBAR,52.52475656043,7.316118836369999,45,94
+508,"Elisabeth-Krankenhaus Thuine, Hauptstandort",VERFUEGBAR,52.497606316962006,7.4886814355519995,50,93
+509,"St. Hubertus-Stift GmbH, Hauptstandort",VERFUEGBAR,50.997881605295,6.576904606804,37,93
+510,"St. Katharinen-Hospital GmbH, St. Katharinen-Hospital",VERFUEGBAR,50.923156178519,6.808630406881,61,97
+511,"Marienhospital Brühl GmbH, Marienhospital Brühl",VERFUEGBAR,50.827334528491,6.900974035198,42,96
+512,"Marien-Hospital Erftstadt-Frauenthal, Hauptstandort",VERFUEGBAR,50.807622935573995,6.809199571544,38,95
+513,Dreifaltigkeits-Krankenhaus Wesseling,VERFUEGBAR,50.822334550067,6.986637890323,60,98
+514,"St. Marien-Hospital, Hauptstandort",VERFUEGBAR,50.947320438694,6.962529659304,49,96
+515,Krankenhaus der Augustinerinnen,VERFUEGBAR,50.9252131828,6.956298351288001,37,100
+516,"St. Vinzenz-Hospital GmbH, St. Vinzenz-Hospital",VERFUEGBAR,50.967158829259006,6.946999669108,46,99
+517,"Kliniken der Stadt Köln - Standort Riehl, Kliniken der Stadt Köln gGmbH - Kinderkrankenhaus Amsterdamer Strasse",VERFUEGBAR,50.962863088277,6.966712832418,60,99
+518,"St. Agatha Krankenhaus, Hauptstandort",VERFUEGBAR,50.987307865398996,6.960581302774,49,97
+519,"Heilig Geist-Krankenhaus GmbH, Hauptstandort",VERFUEGBAR,50.992215873468,6.923839330698001,60,95
+520,Evangelisches Klinikum Köln Weyertal,VERFUEGBAR,50.927604092591,6.9250339865359996,51,97
+521,"Malteser Krankenhaus St. Hildegardis Köln, Hauptstandort",VERFUEGBAR,50.931087953294,6.923667099327,45,92
+522,"St. Elisabeth-Krankenhaus GmbH, Hauptstandort",VERFUEGBAR,50.923950221679,6.897683501293,59,98
+523,Uniklinik Köln,VERFUEGBAR,50.923308887945005,6.917503255522,39,91
+524,Evangelisches Krankenhaus Kalk gGmbH,VERFUEGBAR,50.941368283966,7.009345471842999,54,97
+525,"Kliniken der Stadt Köln Standort Merheim, Krankenhaus Merheim",VERFUEGBAR,50.938275499264,7.053503966017,51,95
+526,"Klinikum Leverkusen, Hauptstandort",VERFUEGBAR,51.031982481937,7.03340435015,42,95
+527,"Katholische Kranken- und Pflegeeinrichtungen Leverkusen, St. Remigius Krankenhaus Opladen",VERFUEGBAR,51.068081221672,7.004953622818,62,97
+528,"GFO Kliniken Rhein-Berg, Vinzenz Pallotti Hospital",VERFUEGBAR,50.961933953238,7.175029277932,55,99
+529,Evangelisches Krankenhaus Bergisch Gladbach gGmbH,VERFUEGBAR,50.990031223958,7.1375491619439995,36,92
+530,"GFO Kliniken Rhein-Berg, Marien-Krankenhaus",VERFUEGBAR,50.993831502511995,7.130590438974,45,100
+531,"Kath. Stiftung Marienhospital Aachen, Marienhospital Aachen",VERFUEGBAR,50.762184453753996,6.095329105837999,62,92
+532,"Universitätsklinikum Aachen AöR, Uniklinikum Aachen | Hauptgebäude",VERFUEGBAR,50.776221763856,6.043888092172001,59,100
+533,Rhein-Maas Klinikum GmbH,VERFUEGBAR,50.815378420157,6.142893791330001,40,96
+534,Eifelklinik St. Brigida,VERFUEGBAR,50.604975237755006,6.301682174271,48,93
+535,"Bethlehem-Gesundheitszentrum Stolberg gGmbH, Hauptstandort",VERFUEGBAR,50.772767229216,6.229546201483999,38,92
+536,Krankenhaus Düren gem. GmbH,VERFUEGBAR,50.808026333869,6.496521625668,50,96
+537,"St. Augustinus Krankenhaus gGmbH, Krankenhaus",VERFUEGBAR,50.770354595772,6.4878811240030005,65,93
+538,St. Elisabeth Krankenhaus Jülich,VERFUEGBAR,50.925637543601,6.363383710368001,62,91
+539,St. Josef-Krankenhaus Linnich,VERFUEGBAR,50.976482277698004,6.268583822093,65,95
+540,"Städtisches Krankenhaus Heinsberg GmbH, Hauptstandort",VERFUEGBAR,51.064831481362,6.094529807551,53,94
+541,"LVR-Klinik Bonn, Kaiser-Karl-Ring 20, 53111 Bonn",VERFUEGBAR,50.745334121302996,7.089146018061,64,94
+542,"Gemeinschaftskrankenhaus Bonn gGmbH, St. Petrus Krankenhaus",VERFUEGBAR,50.728404715690004,7.098663568595001,60,91
+543,"GFO Kliniken Bonn, St. Marien",VERFUEGBAR,50.71673862348,7.093688177119,52,97
+544,Universitätsklinikum Bonn,VERFUEGBAR,50.701534412031,7.102468227649,37,97
+545,"Johanniter GmbH, Waldkrankenhaus, Waldkrankenhaus",VERFUEGBAR,50.682166967009,7.128063797918,43,97
+546,"Neurologisches Rehabilitationszentrum Godeshöhe e.V. Akut-Frührehabilitation, Neurologisches Rehabilitationszentrum Godeshöhe e.V., Bonn - Bad Godesberg",VERFUEGBAR,50.682313124283,7.137630701,57,100
+547,"GFO Kliniken Bonn, St. Josef",VERFUEGBAR,50.736054278457004,7.1182199567149995,43,99
+548,"Verbund-KH Linz-Remagen, Krankenhaus Maria Stern Remagen",VERFUEGBAR,50.574032237416,7.233160257273999,41,98
+549,"Marienhaus Klinikum im Kreis Ahrweiler, Krankenhaus Maria Hilf Bad Neuenahr - Ahrweiler",VERFUEGBAR,50.540898885544,7.127738043662,61,94
+550,"Verbund-KH Linz-Remagen, Franziskus-Krankenhaus Linz",VERFUEGBAR,50.564475512922,7.318353250619,40,100
+551,DRK Kamillus Klinik Asbach,VERFUEGBAR,50.667559140901005,7.424712896445,47,93
+552,"GFO Kliniken Bonn, CURA Krankenhaus",VERFUEGBAR,50.647174836045,7.226161192956999,41,96
+553,Helios Klinikum Siegburg,VERFUEGBAR,50.799011754736995,7.205887556011,43,94
+554,Asklepios Klinik Sankt Augustin GmbH,VERFUEGBAR,50.775112638873,7.181260156458,53,93
+555,"Kreiskrankenhaus Mechernich GmbH, Krankenhaus Mechernich",VERFUEGBAR,50.592774634704,6.650273859468,58,94
+556,"Kreiskrankenhaus Mechernich GmbH, Krankenhaus Schleiden",VERFUEGBAR,50.533354073724006,6.486921429569,38,97
+557,"Krankenhaus der Barmherzigen Brüder Trier, Trier",VERFUEGBAR,49.762079222288996,6.6406795978629996,58,94
+558,St. Josef-Krankenhaus,VERFUEGBAR,49.657546805243996,6.948454767457,40,100
+559,Kreiskrankenhaus St. Franziskus Saarburg GmbH,VERFUEGBAR,49.602610133012,6.537867307597,62,92
+560,"Verbundkrankenhaus Bernkastel/Wittlich, Cusanus Krankenhaus Bernkastel-Kues",VERFUEGBAR,49.915374700308,7.062601838261,41,98
+561,"Verbundkrankenhaus Bernkastel/Wittlich, St. Elisabeth Krankenhaus Wittlich",VERFUEGBAR,50.000546727589,6.892509050667,55,93
+562,"Krankenhaus Maria Hilf, 54550 Daun, Krankenhaus Maria Hilf Daun",VERFUEGBAR,50.193447385422,6.833135604793,39,91
+563,"Marienhaus Klinikum Eifel, Marienhaus Klinikum Eifel Gerolstein",VERFUEGBAR,50.226557196006006,6.665098428612,45,99
+564,St. Joseph-Krankenhaus,VERFUEGBAR,50.21184269169001,6.4103958607210005,46,100
+565,"Marienhaus Klinikum Eifel, Marienhaus Klinikum Eifel Bitburg",VERFUEGBAR,49.971704025861996,6.5269861217709995,62,98
+566,"Katholisches Klinikum Mainz, Katholisches Klinkum Mainz (Hauptstandort)",VERFUEGBAR,49.989290260498,8.270441025642999,62,92
+567,"Universitätsmedizin der Johannes Gutenberg-Universität Mainz, Hauptstandort UM",VERFUEGBAR,49.992949180831005,8.259165929903,48,99
+568,Krankenhaus Ingelheim der Universitätsmedizin Mainz gGmbH,VERFUEGBAR,49.973712696393996,8.06949448579,39,100
+569,"DRK-Krankenhaus Alzey, DRK Krankenhaus Alzey",VERFUEGBAR,49.746453779327,8.103998422557,47,92
+570,"Heilig-Geist-Hospital Bingen gGmbH, Hauptstandort",VERFUEGBAR,49.968142241709,7.896952807887,63,100
+571,"Hunsrück Klinik, kreuznacher diakonie",VERFUEGBAR,49.980434681352996,7.517382698134,46,92
+572,"Diakonie Krankenhaus Kreuznacher Diakonie, Hauptstandort",VERFUEGBAR,49.836813030632,7.863286323845,63,96
+573,Krankenhaus St. Marienwörth,VERFUEGBAR,49.84654639954,7.861477375063,57,98
+574,Gesundheitszentrum Glantal,VERFUEGBAR,49.70655896432,7.677172601207,56,93
+575,"Diakonie Krankenhaus Kreuznacher Diakonie, Standort Kirn",VERFUEGBAR,49.794769437106,7.456013755872999,42,97
+576,"ESB Krankenhaus der Elisabeth-Stiftung, Walter-Bleicker-Platz, 55765 Birkenfeld, Elisabeth-Stiftung des DRK",VERFUEGBAR,49.645498061923,7.159804522926001,42,95
+577,"Gemeinschaftsklinikum Mittelrhein gGmbH, Ev. Stift St. Martin",VERFUEGBAR,50.348885338485005,7.593954384311,41,100
+578,"BundeswehrZentralkrankenhaus Koblenz, Hauptstandort",VERFUEGBAR,50.369985739731,7.541914701396,63,95
+579,"Gemeinschaftsklinikum Mittelrhein gGmbH, Kemperhof",VERFUEGBAR,50.355980883861,7.564584195597,60,97
+580,"Katholisches Klinikum Koblenz Montabaur gGmbH, Standort Koblenz",VERFUEGBAR,50.354271272720005,7.5871260836720005,57,97
+581,"St. Elisabeth Krankenhaus Lahnstein, Standort St. Elisabeth Krankenhaus Lahnstein",VERFUEGBAR,50.305147190391,7.608741563331,39,96
+582,"Katholische Kliniken Lahn, Standort Hufeland-Klinik",VERFUEGBAR,50.33391762045999,7.726969152835999,52,97
+583,"Paracelsus-Klinik Bad Ems, Paracelsus Klinik Bad Ems",VERFUEGBAR,50.333869271015,7.724475503001,60,92
+584,"Gemeinschaftsklinikum Mittelrhein gGmbH, Hl. Geist",VERFUEGBAR,50.232010868092004,7.587463438494999,42,91
+585,"Marienhaus Klinikum   Bendorf - Neuwied - Waldbreitbach, Marienhaus Klinikum St. Josef",VERFUEGBAR,50.421492812941,7.576568841705001,57,98
+586,"Evangelisches Krankenhaus Dierdorf/Selters gGmbH, Evangelischen Krankenhaus Dierdorf/Selters gGmbH Standort Selters",VERFUEGBAR,50.529176909233996,7.75884962095,37,100
+587,"Evangelisches Krankenhaus Dierdorf/Selters gGmbH, Evangelischen Krankenhaus Dierdorf/Selters gGmbH Standort Dierdorf",VERFUEGBAR,50.548147638092004,7.66156564001,59,96
+588,"Gemeinschaftsklinikum Mittelrhein gGmbH, Paulinenstift",VERFUEGBAR,50.202562830896,7.856328070147001,47,92
+589,"Katholisches Klinikum Koblenz Montabaur gGmbH, Standort Montabaur",VERFUEGBAR,50.431311984528,7.831800375134,51,95
+590,Herz-Jesu-Krankenhaus Dernbach,VERFUEGBAR,50.45252519932,7.784991019771,64,98
+591,Rhein-Mosel-Fachklinik,VERFUEGBAR,50.428970325021,7.397550433866,36,99
+592,"St. Nikolaus-Stiftshospital, St. Nikolaus-Stiftshospital GmbH",VERFUEGBAR,50.44037168914001,7.404745995981999,51,96
+593,"Gemeinschaftsklinikum Mittelrhein gGmbH, St. Elisabeth",VERFUEGBAR,50.325516968830996,7.2182520031770006,45,99
+594,Marienkrankenhaus Cochem,VERFUEGBAR,50.155737767425,7.179316520887,63,95
+595,Klinikum Mittelmosel,VERFUEGBAR,50.023588586532,7.16760706895,44,97
+596,"DRK- Kinderklinik Siegen gGmbH, DRK Kinderklinik gGmbH",VERFUEGBAR,50.884082549873,8.01902496818,47,100
+597,"Kreisklinikum Siegen GmbH, Hauptstandort",VERFUEGBAR,50.903041288583005,8.020398795588,51,96
+598,"Diakonie Klinikum GmbH, Diakonie Klinikum Bethesda",VERFUEGBAR,50.899588821645004,7.864717617631,49,95
+599,VAMED Klinik Bad Berleburg,VERFUEGBAR,51.060568548165996,8.402625381873,55,98
+600,"Fachkrankenhaus Kloster Grafschaft GmbH, Haupstandort",VERFUEGBAR,51.144133726251,8.325611114633,42,97
+601,Helios Klinik Attendorn,VERFUEGBAR,51.125864188733,7.8970010876489996,55,96
+602,"Katholisches Klinikum Südwestfalen, St. Martinus-Hospital",VERFUEGBAR,51.027457170596,7.846918344694,54,100
+603,"DRK Krankenhaus Kirchen, Standort 1",VERFUEGBAR,50.806362446003,7.879177057771,49,92
+604,"DRK Krankenhaus Altenkirchen-Hachenburg, Standort Altenkirchen",VERFUEGBAR,50.683290326913,7.630609452749,53,92
+605,"DRK Krankenhaus Altenkirchen-Hachenburg, Standort Hachenburg",VERFUEGBAR,50.656886809616005,7.8308739065960005,62,98
+606,"AGAPLESION Allgemeines Krankenhaus Hagen, Hauptstandort",VERFUEGBAR,51.354401750018,7.465771615489,45,95
+607,"Kath. Krankenhaus Hagen gem. GmbH, St.-Josefs-Hospital",VERFUEGBAR,51.366996343179,7.466377258334,57,97
+608,"Kath. Krankenhaus Hagen gem. GmbH, St.-Johannes-Hospital",VERFUEGBAR,51.395960807061,7.473506569895,61,92
+609,"Ev. Krankenhaus Hagen-Haspe gGmbH, Ev. Krankenhaus Hagen-Haspe",VERFUEGBAR,51.347493351114,7.412241697393,43,95
+610,Marienkrankenhaus Schwerte - Goethestraße,VERFUEGBAR,51.443761757032,7.56751853226,44,97
+611,Marienkrankenhaus Schwerte - Schützenstraße,VERFUEGBAR,51.44465447559,7.574937522395,56,94
+612,"Gemeinschaftskrankenhaus Herdecke, Gemeinschaftskrankenhaus Herdecke - Hauptstandort",VERFUEGBAR,51.411240450433,7.399306207903,40,95
+613,"Helios Klinikum Schwelm GmbH, Helios Klinikum Schwelm",VERFUEGBAR,51.293446626116,7.311882555468,47,91
+614,"Marien Hospital Witten, Hauptstandort",VERFUEGBAR,51.445242924722,7.337106049044,46,95
+615,"Evangelische Krankenhausgemeinschaft Herne | Castrop-Rauxel gGmbH, Evangelisches Krankenhaus Witten gGmbH",VERFUEGBAR,51.445604014753,7.343875944598,65,95
+616,Klinikum Lüdenscheid,VERFUEGBAR,51.207207716955004,7.662002027018,61,93
+617,"Katholische Kliniken im Märkischen Kreis, Iserlohn, St.  Elisabeth-Hospital",VERFUEGBAR,51.379446846857995,7.690690398249,41,93
+618,AGAPLESION Ev. Krankenhaus Bethanien Iserlohn gGmbH,VERFUEGBAR,51.371162515304,7.693295359595,58,100
+619,Lungenklinik Hemer,VERFUEGBAR,51.392817822432,7.765916168673001,62,96
+620,"Paracelsus-Klinik Hemer GmbH, Hauptstandort",VERFUEGBAR,51.389902586529,7.757626533312,39,94
+621,"Katholische Kliniken im Märkischen Kreis, Iserlohn, St. Vincenz Krankenhaus",VERFUEGBAR,51.437039059256,7.799816608494001,42,100
+622,Stadtklinik Werdohl,VERFUEGBAR,51.25685413055199,7.765009582026,61,94
+623,"Krankenhaus Plettenberg gGmbH, Hauptstandort",VERFUEGBAR,51.213421488723,7.886490616947,44,96
+624,"Evangelisches Krankenhaus Hamm gGmbH, Hauptstandort",VERFUEGBAR,51.669985145686,7.8270758986310005,47,94
+625,"St. Marien-Hospital Hamm, Standort Nassauerstraße",VERFUEGBAR,51.679442701881,7.818176329119999,50,94
+626,"St. Marien-Hospital Hamm, Standort Knappenstraße",VERFUEGBAR,51.688147596123,7.849152302952,57,97
+627,"St. Barbara Klinik Hamm GmbH, St. Barbara Klinik Hamm-Heessen",VERFUEGBAR,51.708239818582,7.841748386612999,47,94
+628,"St. Barbara Klinik Hamm GmbH, St. Josef-Krankenhaus Hamm-Bockum-Hövel",VERFUEGBAR,51.698388463495,7.762981832011,60,97
+629,"St. Franziskus-Hospital Ahlen, Hauptstandort",VERFUEGBAR,51.766903288376,7.885046347972,53,97
+630,"St. Elisabeth-Hospital Beckum GmbH, St. Elisabeth-Hospital Beckum, Hauptstandort",VERFUEGBAR,51.752705853631,8.038717746604,58,100
+631,"Sankt Elisabeth Hospital GmbH, Marienhospital Oelde",VERFUEGBAR,51.82150299437,8.142901182191,41,100
+632,"St. Marien-Hospital Lüdinghausen GmbH, St. Marien-Hospital Lüdinghausen",VERFUEGBAR,51.769245786699,7.447484314425,41,91
+633,"Katholisches Klinikum Lünen/Werne, St. Christophorus-Krankenhaus",VERFUEGBAR,51.675433045667,7.617157436907001,49,95
+634,"Katharinen-Hospital Unna, Hauptstandort",VERFUEGBAR,51.536822691397,7.685192272083,47,96
+635,Stiftung Evangelisches Krankenhaus Unna,VERFUEGBAR,51.533209203115995,7.677076578075,48,100
+636,"Mariannen-Hospital Werl, Hauptstandort",VERFUEGBAR,51.551900877761,7.906319081767,49,97
+637,"Klinikum Stadt Soest gGmbH, Senator-Schwartz-Ring 8, Soest",VERFUEGBAR,51.56514471403,8.078618824466,47,99
+638,"Marienkrankenhaus Soest, Hauptstandort",VERFUEGBAR,51.574740833218,8.112001597865,51,95
+639,"Ev. Krankenhaus Lippstadt, Hauptstandort",VERFUEGBAR,51.684975604102,8.343058414757,49,99
+640,Krankenhaus Maria Hilf GmbH,VERFUEGBAR,51.44174889685,8.355967283233,58,98
+641,"Hospital zum Hl. Geist gem. GmbH, Hospital zum Hl. Geist Geseke",VERFUEGBAR,51.636610116366995,8.510186254961999,43,95
+642,"Klinikum Hochsauerland GmbH, St. Johannes-Hospital",VERFUEGBAR,51.450287896119,7.963873922808,54,99
+643,"Klinikum Hochsauerland GmbH, Marienhospital Arnsberg",VERFUEGBAR,51.401056819865,8.072198823089998,62,100
+644,"Klinikum Hochsauerland GmbH, St. Walburga-Krankenhaus",VERFUEGBAR,51.342984070712006,8.288781434289,40,97
+645,"Städt. Krankenhaus Maria-Hilf Brilon gGmbH, Hauptstandort",VERFUEGBAR,51.386305232602,8.582633323967,51,94
+646,Elisabeth-Klinik gGmbH - Olsberg,VERFUEGBAR,51.356929320462,8.47346520437,50,94
+647,"Hospital zum Heiligen Geist, Hauptstandort",VERFUEGBAR,50.110599796772,8.692803740496,48,96
+648,Frankfurter Rotkreuz-Kliniken,VERFUEGBAR,50.116926902221,8.697997212394,39,92
+649,"Bürgerhospital und Clementine Kinderhospital gGmbH, Bürgerhospital Frankfurt am Main",VERFUEGBAR,50.130737378619,8.686793088782,48,91
+650,"AGAPLESION Frankfurter Diakonie Kliniken gGmbH, AGAPLESION Bethanien Krankenhaus",VERFUEGBAR,50.129181298268,8.706432759744999,63,98
+651,BG Unfallklinik Frankfurt am Main gGmbH,VERFUEGBAR,50.145647564691,8.709681129567,42,97
+652,"AGAPLESION Frankfurter Diakonie Kliniken gGmbH, AGAPLESION Markus Krankenhaus",VERFUEGBAR,50.136725666604995,8.64739197491,36,100
+653,Universitätsklinikum Frankfurt,VERFUEGBAR,50.095428562176,8.661681175363,45,91
+654,"Kerckhoff-Klinik gGmbH, Hauptstandort",VERFUEGBAR,50.369806962177,8.742328226558,38,100
+655,"Hochtaunus-Kliniken gGmbH, Hochtaunus-Kliniken gGmbH Bad Homburg",VERFUEGBAR,50.212522757026996,8.618133902582,64,92
+656,Sana Klinikum Offenbach GmbH,VERFUEGBAR,50.094192075512,8.756854444764,60,92
+657,Ketteler Krankenhaus,VERFUEGBAR,50.09483837005,8.784871816652,62,92
+658,"Asklepios Kliniken Langen - Seligenstadt GmbH, Asklepios Klinik Langen",VERFUEGBAR,49.998422625474994,8.683548688823,41,94
+659,"St. Vinzenz-Krankenhaus Hanau gGmbH, St. Vinzenz-Krankenhaus Hanau Haupthaus",VERFUEGBAR,50.135372925729996,8.912375610716,62,98
+660,Kreiskrankenhaus Schotten,VERFUEGBAR,50.506746886286,9.104161977702,36,96
+661,"Klinikum Aschaffenburg-Alzenau gemeinnützige GmbH, Standort Aschaffenburg",VERFUEGBAR,49.977267858552,9.187191367181999,44,95
+662,"Helios-Klinik Erlenbach, Hauptstandort",VERFUEGBAR,49.811506031558,9.166757011499,53,100
+663,"Klinikum Darmstadt GmbH, Klinikum Darmstadt, Hauptstandort",VERFUEGBAR,49.874026919175996,8.646875247359,41,92
+664,"AGAPLESION ELISABETHENSTIFT EVANGELSICHES KRANKENHAUS, AGAPLESION ELISABETHENSTIFT EVANGELISCHES KRANKENHAUS",VERFUEGBAR,49.87347721994799,8.665795683828,49,92
+665,"Darmstädter gemeinnützige Kinderklinikenbetriebs-GmbH, Darmstädter Kinderkliniken Prinzessin Margaret",VERFUEGBAR,49.876968913713,8.663852691716,56,93
+666,"Stiftung Alice-Hospital vom Roten Kreuz zu Darmstadt, Alice-Hospital Darmstadt - Dieburger Straße",VERFUEGBAR,49.87747190423801,8.66481560467,59,91
+667,"Kreiskliniken Darmstadt-Dieburg, Jugenheim",VERFUEGBAR,49.753427539044,8.638485431802,65,94
+668,Heilig-Geist Hospital,VERFUEGBAR,49.67828037074099,8.620446503146,62,97
+669,"Kreiskrankenhaus Bergstraße gGmbH, Hauptstandort",VERFUEGBAR,49.628413580172,8.62520313276,62,98
+670,"St. Josefs-Hospital Wiesbaden GmbH, St. Josefs-Hospital Wiesbaden  GmbH",VERFUEGBAR,50.076387329685,8.254051923686,61,95
+671,DKD Helios Klinik Wiesbaden,VERFUEGBAR,50.086819296068,8.269077122195,58,95
+672,Asklepios Paulinen Klinik Wiesbaden,VERFUEGBAR,50.072435808281,8.226556599116,52,100
+673,"Helios Dr. Horst Schmidt Kliniken GmbH, Helios Dr. Horst-Schmidt-Kliniken",VERFUEGBAR,50.06569063269399,8.191581665733,36,96
+674,"GPR Klinikum Rüsselsheim, Hauptstandort",VERFUEGBAR,49.983361564774,8.423935532537,40,100
+675,"Helios Kliniken Idstein, Helios Klinik Idstein",VERFUEGBAR,50.208816781219994,8.26370787614,52,95
+676,"St. Vincenz-Krankenhaus Limburg, Limburg",VERFUEGBAR,50.387810499459,8.051592886432001,61,93
+677,"Kliniken des Main-Taunus-Kreises GmbH, Kliniken des Main-Taunus-Kreises GmbH, Standort Bad Soden am Taunus",VERFUEGBAR,50.150609490134,8.5135974886,59,94
+678,"Klinikum Frankfurt Höchst GmbH, Klinikum Frankfurt Höchst",VERFUEGBAR,50.107939612681996,8.543833494186,37,91
+679,"Evang. Stadtkrankenhaus Saarbrücken, Evangelisches Stadtkrankenhaus Saarbrücken",VERFUEGBAR,49.233049841787995,7.003756561317,46,91
+680,"CaritasKlinikum Saarbrücken, St. Theresia Saarbrücken",VERFUEGBAR,49.247909394406,6.959429457711001,54,95
+681,"Klinikum saarbrücken gGmbH, Hauptstandort",VERFUEGBAR,49.221065672421,6.996766018751,36,95
+682,"CaritasKlinikum Saarbrücken, St. Josef Dudweiler",VERFUEGBAR,49.277282248559,7.041061855853,40,99
+683,"Knappschaftsklinikum Saar GmbH, Krankenhaus Sulzbach, Krankenhaus Sulzbach",VERFUEGBAR,49.298185778500006,7.055252552163,52,91
+684,"SHG Kliniken Völklingen, SHG-Kliniken Völklingen",VERFUEGBAR,49.257505260318005,6.852072000438,58,100
+685,"Knappschaftsklinikum Saar GmbH, Krankenhaus Püttlingen, Krankenhaus Püttlingen",VERFUEGBAR,49.276883786874,6.868356228006,46,100
+686,"Kreiskrankenhaus St. Ingbert, Einziger Standort",VERFUEGBAR,49.290550240754996,7.113414645228,62,100
+687,"Universitätsklinikum des Saarlandes, Universitätsklinikum des Saarlandes Homburg",VERFUEGBAR,49.308912016795,7.3457320332360005,63,97
+688,"Nardini Klinikum GmbH, St. Elisabeth Zweibrücken",VERFUEGBAR,49.246426398104,7.363770827651,40,100
+689,Diakonie Klinikum Neunkirchen gGmbH,VERFUEGBAR,49.340971867017004,7.183249779046,49,93
+690,Klinikum Merzig gGmbH,VERFUEGBAR,49.457251697955996,6.633046781570999,59,93
+691,Marienhausklinik St. Josef - Losheim am See,VERFUEGBAR,49.50879304057901,6.7400113642270005,46,92
+692,"Krankenhaus Saarlouis vom DRK, Hauptstandort",VERFUEGBAR,49.313775044676,6.744250450283,49,98
+693,"Marienhaus Klinikum St. Elisabeth Saarlouis, Marienhaus Klinikum Saarlouis - Dillingen, Standort Saarlouis",VERFUEGBAR,49.315198364389,6.756520986491999,63,91
+694,Caritas Krankenhaus Lebach,VERFUEGBAR,49.419164120819,6.889797806707,47,96
+695,"Nardini Klinikum GmbH, St. Johannis Landstuhl",VERFUEGBAR,49.399000200181,7.581995353103,53,99
+696,"St. Elisabeth-Krankenhaus, Rodalben, Hauptstandort",VERFUEGBAR,49.241386513954,7.63412301244,48,93
+697,"Klinikum der Stadt Ludwigshafen am Rhein gGmbH, Klinikum Ludwigshafen",VERFUEGBAR,49.490855655148,8.423893690305999,55,99
+698,"St. Marienkrankenhaus und St. Annastiftskrankenhaus, St. Marienkrankenhaus Ludwigshafen",VERFUEGBAR,49.458123742438005,8.408190697219,52,91
+699,Berufsgenossenschaftliche Unfallklinik Ludwigshafen,VERFUEGBAR,49.485865508321,8.388782501352,63,93
+700,"Evangelische Krankenhaus Bad Dürkheim gGmbH, Evangelisches Krankenhaus Bad Dürkheim",VERFUEGBAR,49.466536086758005,8.178756952302,48,100
+701,Stadtklinik Frankenthal,VERFUEGBAR,49.542970869076996,8.330806016857,50,93
+702,Kreiskrankenhaus Grünstadt,VERFUEGBAR,49.563856902112,8.157812386735,59,95
+703,Diakonissen-Stiftungs-Krankenhaus Speyer,VERFUEGBAR,49.310583791423,8.435867607577,37,96
+704,"Marienhaus Klinikum Hetzelstift Neustadt/W, Hauptstandort",VERFUEGBAR,49.346555163068,8.149718821032,53,99
+705,"Klinikum Worms gGmbH, Klinikum",VERFUEGBAR,49.64978561206701,8.320514273473,46,97
+706,"Westpfalz-Klinikum Kaiserslautern - Kusel, Westpfalz-Klinikum StO Kaiserslautern",VERFUEGBAR,49.442308209042,7.756798267365,45,96
+707,Diakonissenkrankenhaus Mannheim,VERFUEGBAR,49.464373064597,8.471255949153,53,94
+708,"St. Marien Krankenhaus Lampertheim GmbH, St. Marien Krankenhaus Lampertheim",VERFUEGBAR,49.597247182641,8.467209434538999,55,97
+709,GRN-Klinik Schwetzingen,VERFUEGBAR,49.378075351197005,8.570155084117,56,91
+710,"Universitätsklinikum Heidelberg, Campus Neuenheimer Feld",VERFUEGBAR,49.41552091763,8.666354656252,46,93
+711,"Krankenhaus Salem, Hauptstandort",VERFUEGBAR,49.423502451834004,8.684420675031001,40,95
+712,"Thoraxklinik Heidelberg, Hauptstandort",VERFUEGBAR,49.377395602476994,8.689904853698,38,95
+713,GRN-Klinik Eberbach,VERFUEGBAR,49.46337696797,8.990470513697,60,93
+714,GRN-Klinik Weinheim,VERFUEGBAR,49.549707590859,8.645036995395,64,91
+715,"Klinikum Stuttgart, Klinikum Stuttgart - KH - Katharinenhospital",VERFUEGBAR,48.783280428725995,9.173467040046,42,99
+716,"Klinikum Stuttgart, Klinikum Stuttgart - OH/FK - Olgahospital/Frauenklinik",VERFUEGBAR,48.783202666072995,9.173708438857,47,97
+717,"Sana Herzchirurgie Stuttgart GmbH, Sana Herzchirurgie Stuttgart",VERFUEGBAR,48.783142647431,9.170659946976,56,91
+718,Diakonie-Klinikum Stuttgart,VERFUEGBAR,48.781751663568,9.163940906656,50,99
+719,Sana Klinik Bethesda Stuttgart gGmbH,VERFUEGBAR,48.772118488409006,9.187977790898,43,91
+720,Karl-Olga-Krankenhaus,VERFUEGBAR,48.789273693351,9.203697305707001,50,95
+721,Marienhospital Stuttgart,VERFUEGBAR,48.76125464519399,9.163320243383,62,98
+722,Krankenhaus vom Roten Kreuz Bad Cannstatt GmbH,VERFUEGBAR,48.803529450519,9.212520298368,53,94
+723,Robert-Bosch-Krankenhaus,VERFUEGBAR,48.815082316815,9.186542808993,39,97
+724,"Die Filderklinik, Filderklinik",VERFUEGBAR,48.647647546769,9.204562492669,52,92
+725,"Klinikum Sindelfingen-Böblingen, Kliniken Böblingen",VERFUEGBAR,48.69031412496199,9.032980442080001,47,93
+726,"Klinikum Sindelfingen-Böblingen, Kliniken Sindelfingen",VERFUEGBAR,48.715365464627,9.023957490954,50,97
+727,"Kreiskrankenhaus Herrenberg, Krankenhaus Herrenberg",VERFUEGBAR,48.591850404104996,8.874998331102999,44,100
+728,Rems-Murr-Klinikum Winnenden,VERFUEGBAR,48.870055503957005,9.392342805895,47,92
+729,Klinikum Ludwigsburg,VERFUEGBAR,48.898362324729995,9.203446626598,39,92
+730,"BG Klinik Ludwigshafen und Tübingen gGmbH, Standort Tübingen",VERFUEGBAR,48.533593888862,9.035523176226,56,91
+731,"Kreisklinikum Calw-Nagold, Kliniken Nagold",VERFUEGBAR,48.541709160802,8.72203570606,60,98
+732,"Krankenhäuser Landkreis Freudenstadt gGmbH, Krankenhaus Freudenstadt",VERFUEGBAR,48.477463125122995,8.405019387599,40,92
+733,"Zollernalb Klinikum gGmbH, Balingen",VERFUEGBAR,48.277714822745,8.857531785998,51,95
+734,"SRH Kliniken Landkreis Sigmaringen GmbH, SRH Krankenhaus Sigmaringen",VERFUEGBAR,48.096319472168,9.225757509462,65,98
+735,"Klinikum am Steinenberg/Ermstalklinik, Klinikum am Steinenberg",VERFUEGBAR,48.48374334352899,9.218193680039999,37,93
+736,"ALB FILS KLINIKEN GmbH, Klinik am Eichert",VERFUEGBAR,48.690485873164995,9.65062236799,63,98
+737,"medius KLINIKEN KIRCHEIM | NÜRTINGEN, medius KLINIK KIRCHHEIM",VERFUEGBAR,48.652068749627,9.442178785785,46,96
+738,Ostalb-Klinikum Aalen,VERFUEGBAR,48.848839142222005,10.084305524761,36,100
+739,"St. Anna-Virngrund-Klinik Ellwangen, St. Anna-Virngrund-Klinik - ZNA",VERFUEGBAR,48.957404202103994,10.132435083324,51,94
+740,Stauferklinikum Schwäbisch Gmünd,VERFUEGBAR,48.819912672540006,9.787352800304001,51,93
+741,Rems-Murr-Klinik Schorndorf,VERFUEGBAR,48.797742186794004,9.528851151499,43,100
+742,"Klinikum Esslingen, Hauptstandort",VERFUEGBAR,48.737131873676994,9.326441483572001,60,92
+743,"medius KLINIK OSTFILDERN-RUIT, medius KLINIK OSTFILDERN - RUIT",VERFUEGBAR,48.741633665497,9.254379630056,40,95
+744,"SLK-Kliniken Heilbronn GmbH- Klinikum am Gesundbrunnen Heilbronn, Klinikum am Gesundbrunnen",VERFUEGBAR,49.153964321063,9.191268878057999,44,96
+745,"Klinikum am Plattenwald, Klinikum am Plattenwald, Bad Friedrichshall",VERFUEGBAR,49.21182922760801,9.23586923629,42,98
+746,"Klinik Löwenstein gGmbH, Klinik Löwenstein",VERFUEGBAR,49.090184701511,9.402691321447001,52,91
+747,"Krankenhaus Bietigheim-Vaihingen, Krankenhaus Bietigheim",VERFUEGBAR,48.957206948222,9.135254144603,42,97
+748,"Diakonie-Klinikum Schwäbisch Hall gGmbH, Diakonie-Klinikum Schwäbisch Hall gGmbH - Hauptstandort",VERFUEGBAR,49.124631741102,9.741652250323,44,93
+749,Neckar-Odenwald-Kliniken gGmbH Krankenhaus Mosbach,VERFUEGBAR,49.356088989289,9.153085738412,37,100
+750,Helios Klinikum Pforzheim GmbH,VERFUEGBAR,48.88855931467,8.711673259768,36,92
+751,"Siloah St. Trupdert Klinikum, Siloah St. Trudpert Klinikum",VERFUEGBAR,48.897418963392,8.67268520592,37,92
+752,"Kreisklinikum Calw-Nagold, Kliniken Calw",VERFUEGBAR,48.715237159619996,8.745196580903,57,95
+753,"Städtisches Klinikum Karlsruhe gGmbH, Städtisches Klinikum",VERFUEGBAR,49.017178424467,8.373053893447,42,94
+754,"Vincentius-Diakonissen-Kliniken Karlsruhe, St. Vincentius-Kliniken",VERFUEGBAR,48.999769280084,8.379481673192,49,97
+755,Helios Klinik für Herzchirurgie Karlsruhe,VERFUEGBAR,49.018093137891,8.375674009257999,51,91
+756,"Vincentius-Diakonissen-Kliniken Karlsruhe, Diakonissenkrankenhaus",VERFUEGBAR,48.972140735067995,8.409467697029001,52,95
+757,"SRH Klinikum Karlsbad, SRH Klinikum Karlsbad-Langensteinbach",VERFUEGBAR,48.904304210237,8.502052187887,62,100
+758,"Klinikum Mittelbaden Baden-Baden Bühl, Klinikum Mittelbaden Baden-Baden Bühl Standort Balg",VERFUEGBAR,48.784711946944,8.216414630397,59,100
+759,"Asklepios Südpfalzkliniken GmbH, Asklepios Südpfalzklinik Germersheim",VERFUEGBAR,49.219963982877,8.365733206256,37,94
+760,"Klinikum Landau-Südliche Weinstraße GmbH, Klinik Landau",VERFUEGBAR,49.205934285286,8.103765808046,53,93
+761,"Vinzentius-Krankenhaus Landau, Hauptstandort",VERFUEGBAR,49.190309387391004,8.11456525329,50,98
+762,"Asklepios Südpfalzkliniken GmbH, Asklepios Südpfalzklinik Kandel",VERFUEGBAR,49.086095403462,8.200444757922,36,96
+763,"Klinikum Landau-Südliche Weinstraße GmbH, Klinik Bad Bergzabern",VERFUEGBAR,49.106197437195995,7.999966666102001,36,92
+764,"Ortenau Klinikum Offenburg-Kehl, Offenburg",VERFUEGBAR,48.476152222025,7.954721689256999,45,92
+765,"Ortenau Klinikum Offenburg-Kehl, Kehl",VERFUEGBAR,48.56808479433,7.811596870488,37,97
+766,ORTENAU KLINIKUM Wolfach,VERFUEGBAR,48.303127834014,8.22265398504,64,97
+767,"Ortenau Klinikum Achern-Oberkirch, Achern",VERFUEGBAR,48.625259643984,8.067199265724,55,93
+768,MediClin Herzzentrum Lahr/Baden,VERFUEGBAR,48.339887415202,7.8908563616639995,62,99
+769,"Ortenau Klinikum Lahr-Ettenheim, Ortenau Klinikum Lahr-Ettenheim Betriebsstelle Lahr",VERFUEGBAR,48.344197339318,7.886052310449999,46,97
+770,"Schwarzwald-Baar Klinikum, Schwarzwald-Baar Klinikum, Villingen-Schwenningen",VERFUEGBAR,48.065172915773,8.499393045886,52,91
+771,"Hegau-Bodensee-Klinikum (Standorte: Singen, Radolfzell, Stühlingen), Hegau-Bodensee-Klinikum Singen",VERFUEGBAR,47.75976089215,8.821524471036,51,92
+772,"Krankenhaus Stockach GmbH, Stockach",VERFUEGBAR,47.853306607897,9.009404897624,62,100
+773,"Herz- Zentrum Bodensee, Hauptstandort Herz-Zentrum",VERFUEGBAR,47.671732707494,9.185561120494,38,93
+774,Klinikum Konstanz GmbH,VERFUEGBAR,47.671434693748,9.188467025888,62,99
+775,"Klinikum Landkreis Tuttlingen gGmbH, Gesundheitszentrum Tuttlingen",VERFUEGBAR,47.9845001845,8.831166811287,59,97
+776,Helios Klinik Rottweil,VERFUEGBAR,48.165042443184994,8.612275958094,43,91
+777,SRH Krankenhaus Oberndorf a.N. GmbH,VERFUEGBAR,48.296194049259995,8.578818619235,44,100
+778,"Loretto-Krankenhaus Freiburg, Loretto-Krankenhaus",VERFUEGBAR,47.983256035404,7.840717613681001,47,91
+779,St. Josefskrankenhaus Freiburg,VERFUEGBAR,48.001809236905004,7.851977527124999,49,96
+780,Universitätsklinikum Freiburg,VERFUEGBAR,48.00524474827699,7.839340925129,48,96
+781,"Ev. Diakoniekrankenhaus Freiburg, Hauptstandort",VERFUEGBAR,48.023886676398,7.815443426371,59,94
+782,"Universitäts-Herzzentrum Freiburg-Bad Krozingen GmbH, Bad Krozingen",VERFUEGBAR,47.907658180681,7.7005285665450005,45,98
+783,Helios Rosmann Klinik Breisach,VERFUEGBAR,48.030878567693996,7.586283803003,49,100
+784,Kreiskrankenhaus Emmendingen,VERFUEGBAR,48.125474212433005,7.855668783286,53,93
+785,"Kliniken des Landkreises Lörrach GmbH, Krankenhaus Lörrach",VERFUEGBAR,47.61440782515,7.6590980077160005,48,95
+786,"Klinikum Hochrhein GmbH, Waldshut",VERFUEGBAR,47.622573569653994,8.20764105767,37,97
+787,Helios-Klinik Titisee-Neustadt,VERFUEGBAR,47.925955014596006,8.187232732706999,46,91
+788,"Klinik St. Blasien GmbH, Hauptstandort",VERFUEGBAR,47.763813179211,8.128093242776,61,97
+789,"ISAR Klinikum, Hauptstandort",VERFUEGBAR,48.134709945684,11.565120398982,64,100
+790,"Klinikum der Universität München, Klinikum der Universität München - Standort Innenstadt",VERFUEGBAR,48.132668345376,11.56221556666,65,92
+791,"Rotkreuzklinikum München gGmbH, Rotkreuzklinikum München",VERFUEGBAR,48.15414180853,11.532668871805,46,93
+792,Deutsches Herzzentrum München,VERFUEGBAR,48.152494658541,11.548920392925,44,92
+793,"Klinikum Dritter Orden München-Nymphenburg, Hauptstandort",VERFUEGBAR,48.165004874192,11.505552292001,56,94
+794,Krankenhaus Neuwittelsbach,VERFUEGBAR,48.156890901522,11.5256467566,59,93
+795,München Klinik Schwabing,VERFUEGBAR,48.170562997054006,11.577624321017002,36,92
+796,Klinik Augustinum München,VERFUEGBAR,48.122439430874,11.487963974460001,59,94
+797,Chirurgisches Klinikum München Süd,VERFUEGBAR,48.102795851913996,11.548877477580001,41,96
+798,"Internistisches Klinikum München Süd GmbH, Hauptstandort",VERFUEGBAR,48.102343257345,11.547908233669999,40,95
+799,Krankenhaus Martha-Maria München,VERFUEGBAR,48.085313640154,11.534259063024,47,92
+800,München Klinik Harlaching,VERFUEGBAR,48.085567292582,11.557083964381,61,97
+801,"Klinikum rechts der Isar der TU München, Stammgelände",VERFUEGBAR,48.137004031183004,11.598835229825001,44,91
+802,München Klinik Neuperlach,VERFUEGBAR,48.095395999886996,11.656508088145001,47,100
+803,"Arabella-Klinik GmbH, Arabella-Klinik",VERFUEGBAR,48.151186563686,11.618415355715001,58,99
+804,München Klinik Bogenhausen,VERFUEGBAR,48.155259263671,11.624686360392001,44,100
+805,"Asklepios Fachkliniken München-Gauting, München-Gauting",VERFUEGBAR,48.06630037314,11.353591203624001,58,99
+806,"Privatklinik Dr. R. Schindlbeck GmbH & CoKG, Hauptstandort",VERFUEGBAR,47.994762821609996,11.170572834089,39,94
+807,Klinikum Fürstenfeldbruck,VERFUEGBAR,48.180615104002,11.259284198268,38,96
+808,Krankenhaus Weilheim,VERFUEGBAR,47.83741268819,11.144314741823,42,91
+809,Klinikum Penzberg,VERFUEGBAR,47.754748961964,11.375938296350999,58,91
+810,BG Klinikum Murnau gGmbH,VERFUEGBAR,47.67170922768501,11.216090440685,64,100
+811,Klinikum Garmisch-Partenkirchen,VERFUEGBAR,47.483929564175995,11.127636015399,53,96
+812,"Kreisklinik Wolfratshausen, Wolfratshausen",VERFUEGBAR,47.911741632379,11.42830038074,58,93
+813,"RoMed Klinikum Rosenheim Prien, RoMed Klinikum Rosenheim",VERFUEGBAR,47.860327726243,12.131294595956,43,99
+814,RoMed Klinik Bad Aibling,VERFUEGBAR,47.86582978883799,12.016939017044,65,96
+815,"RoMed Klinikum Rosenheim Prien, RoMed Klinik Prien",VERFUEGBAR,47.849900900282,12.368072229647,50,100
+816,Klinikum Traunstein,VERFUEGBAR,47.873837340771,12.632477474108,55,100
+817,Kreisklinik Trostberg,VERFUEGBAR,48.028233656223,12.542008494493,59,100
+818,"RoMed Klinik Wasserburg a. Inn, RoMed Klinik Wasserburg",VERFUEGBAR,48.06451611120999,12.215216946415,61,100
+819,"Schön Klinik Vogtareuth SE & Co. KG, VOG",VERFUEGBAR,47.948462479834006,12.187999606149,43,95
+820,"Asklepios Stadtklinik Bad Tölz, Hauptstandort",VERFUEGBAR,47.757119081793,11.55101943602,49,99
+821,"Krankenhaus Agatharied GmbH, Krankenhaus Agatharied GmbH Hauptstandort",VERFUEGBAR,47.767884080114,11.827208483337,42,94
+822,Krankenhaus Landshut-Achdorf,VERFUEGBAR,48.523488606062,12.14907485245,58,100
+823,"Ilmtalklinik GmbH, Krankenhaus Mainburg",VERFUEGBAR,48.643031007474,11.779112415388,43,93
+824,"DONAUISAR Klinikum Deggendorf-Dingolfing-Landau gKU, DONAUISAR Klinikum Dingolfing",VERFUEGBAR,48.622432196054,12.490362614384999,48,100
+825,Krankenhaus Eggenfelden,VERFUEGBAR,48.413349264103005,12.760907650027,60,91
+826,"Kreiskliniken des Landkreises Mühldorf a. Inn GmbH, Klinik Mühldorf a. Inn",VERFUEGBAR,48.242576224615,12.528822004779,60,96
+827,InnKlinikum Altötting,VERFUEGBAR,48.233442539392996,12.675835087890999,51,98
+828,"Klinikum Ingolstadt GmbH, Klinikum Ingolstadt",VERFUEGBAR,48.769912319551004,11.378481030497,58,98
+829,"Kliniken im Naturpark Altmühltal GmbH, Klinik Eichstätt",VERFUEGBAR,48.889926102547996,11.19255137437,60,99
+830,"Kliniken im Naturpark Altmühltal GmbH, Klinik Kösching",VERFUEGBAR,48.815009902091,11.506906270915,51,98
+831,Vamed Klinik Kipfenberg,VERFUEGBAR,48.95200937965,11.394290506823001,57,97
+832,"Helios Amper-Klinikum, Helios Amper-Klinikum Dachau",VERFUEGBAR,48.265405312502004,11.428862571847,46,94
+833,"Ilmtalklinik GmbH, Ilmtalklinik Pfaffenhofen",VERFUEGBAR,48.518455639801,11.498787794261998,41,96
+834,"Klinikum Freising GmbH Gemeinnützige Krankenhausgesellschaft des Landkreises Freising, Klinikum Freising GmbH",VERFUEGBAR,48.404856421336,11.744297325595,60,98
+835,"Klinikum Landkreis Erding, Klinikum Erding",VERFUEGBAR,48.294507744628,11.896311521596001,61,91
+836,"kbo-Isar-Amper-Klinikum gemeinnützige GmbH, Klinikum München Ost, kbo-Isar-Amper-Klinikum München-Ost",VERFUEGBAR,48.117000993997,11.743576884278,50,100
+837,"Kreisklinik Ebersberg gemeinnützige GmbH, Hauptstandort",VERFUEGBAR,48.0765031604,11.961660030536,54,98
+838,"Universitätsklinikum Augsburg, Medizincampus",VERFUEGBAR,48.384278099312,10.838583201161999,46,100
+839,Orthopädische Fachkliniken der Hessing Stiftung,VERFUEGBAR,48.339586961280006,10.865911424144,36,95
+840,Klinik Krumbach,VERFUEGBAR,48.237224764413995,10.365919098217,37,95
+841,Wertachklinik Bobingen,VERFUEGBAR,48.281611472434996,10.822921514609,61,91
+842,"Kliniken an der Paar - Krankenhaus Aichach, Hauptstandort",VERFUEGBAR,48.462053316678,11.139078319056,57,95
+843,"KJF Klinik Sankt Elisabeth, Hauptstandort",VERFUEGBAR,48.730917748166,11.174331503752999,58,94
+844,"Donau-Ries Kliniken, Stiftungskrankenhaus Nördlingen",VERFUEGBAR,48.837036815158996,10.498657465014,42,100
+845,"Kliniken Ostallgäu-Kaufbeuren, AöR des Landkreises Ostallgäu und der Stadt Kaufbeuren - Klinik St. Josef Buchloe, Klinik Buchloe",VERFUEGBAR,48.033482431721,10.723814830176,54,97
+846,Wertachklinik Schwabmünchen,VERFUEGBAR,48.175828972883,10.746090173769998,38,97
+847,Klinikum Landsberg - Intensivstation,VERFUEGBAR,48.048700332184,10.855548977852001,40,92
+848,Krankenhaus Schongau,VERFUEGBAR,47.825130185444,10.899176448501999,58,93
+849,"Klinikverbund Kempten-Oberallgäu gGmbH, Klinikum Kempten",VERFUEGBAR,47.732855621457006,10.302372336273,37,93
+850,St. Vinzenz Klinik Pfronten im Allgäu GmbH,VERFUEGBAR,47.58449384277,10.557490110332001,45,91
+851,"Klinikverbund Allgäu, Klinik Immenstadt",VERFUEGBAR,47.562595220997,10.227857351319999,56,98
+852,"Kliniken Ostallgäu-Kaufbeuren, AöR des Landkreises Ostallgäu und der Stadt Kaufbeuren - Klinikum Kaufbeuren, Klinikum Kaufbeuren",VERFUEGBAR,47.887952853231,10.611177205974,44,100
+853,"Kliniken Ostallgäu-Kaufbeuren, AöR des Landkreises Ostallgäu und der Stadt Kaufbeuren - Klinik Füssen, Klinik Füssen",VERFUEGBAR,47.566905893499005,10.704689741069,50,100
+854,"m&i-Fachklinik Enzensberg, Hauptstandort",VERFUEGBAR,47.613594164004,10.689736702479,45,95
+855,"Kreisklinik Mindelheim, Kreiskliniken Unterallgäu, AöR des Landkreises Unterallgäu, Kreisklinik Mindelheim",VERFUEGBAR,48.041108630679,10.493712024763,43,99
+856,"Kreisklinik Ottobeuren, Kreiskliniken Unterallgäu, AöR des Landkreises Unterallgäu, Kreisklinik Ottobeuren",VERFUEGBAR,47.943610694869,10.293265180662,51,95
+857,"Städtisches Krankenhaus Friedrichshafen, Klinikum Friedrichshafen",VERFUEGBAR,47.673168568051004,9.430213451451,55,91
+858,Klinik Tettnang,VERFUEGBAR,47.672547269716,9.597669124669,56,92
+859,"Asklepios Klinik Lindau, Lindau (Bodensee)",VERFUEGBAR,47.563579550914,9.683587414102,38,95
+860,"Rotkreuzklinik Lindenberg gGmbH, Rotkreuzklinik Lindenberg",VERFUEGBAR,47.611723599429,9.881648004039,38,97
+861,"St.Elisabethen-Klinikum Ravensburg, Hauptstandort",VERFUEGBAR,47.787945360368994,9.621534937132,45,99
+862,"Waldburg-Zeil Akutkliniken GmbH & Co. KG, Am Vogelherd 14, 88239 Wangen",VERFUEGBAR,47.698589217916,9.83571624769,41,98
+863,"Westallgäu Klinikum, Oberschwabenklinik Westallgäu-Klinikum",VERFUEGBAR,47.692956868907004,9.844494031402,50,94
+864,"Krankenhaus Bad Waldsee, Hauptstandort BW",VERFUEGBAR,47.924434205718,9.76083535591,53,97
+865,"Sana Kliniken Landkreis Biberach GmbH, Sana Klinikum Biberach",VERFUEGBAR,48.096537126169004,9.773589849538,54,98
+866,"Helios Spital Überlingen GmbH, Hauptstandort",VERFUEGBAR,47.774851468246005,9.150606572612,38,93
+867,"Bundeswehrkrankenhaus Ulm, Bundswehrkrankenhaus Ulm",VERFUEGBAR,48.424756284497,9.948150694354,38,92
+868,"Alb-Donau Klinikum, Alb-Donau Klinikum Blaubeuren",VERFUEGBAR,48.408743363767,9.789927720958,41,100
+869,"Kreisspitalstiftung Weißenhorn - Stiftungsklinik Weißenhorn/Illertalklinik Illertissen, Stiftungsklinik Weißenhorn",VERFUEGBAR,48.311230925056,10.156311035189,44,100
+870,Bezirkskrankenhaus Günzburg,VERFUEGBAR,48.460095023204005,10.291112423074,44,97
+871,Klinik Günzburg,VERFUEGBAR,48.457438951419,10.293619376153,43,99
+872,"m&i-Fachklinik Ichenhausen, Hauptstandort",VERFUEGBAR,48.365727416314,10.30843923334,56,100
+873,"Kreisklinik St. Elisabeth, Dillingen, Krankenhaus St. Elisabeth Dillingen",VERFUEGBAR,48.575521066275996,10.478583946824,54,96
+874,"Klinikum Heidenheim, Heidenheim",VERFUEGBAR,48.672888376688995,10.140581488618,57,93
+875,"Alb-Donau Klinikum, Alb-Donau Klinikum Ehingen",VERFUEGBAR,48.280372716349,9.718173265392,48,95
+876,"Klinik Hallerwiese-Cnopfsche Kinderklinik, Klinik Hallerwiese/Cnopfsche Kinderklinik",VERFUEGBAR,49.456952202572005,11.066573649637,52,95
+877,"Klinikum Nürnberg, Klinikum Nürnberg Nord",VERFUEGBAR,49.463117134636,11.063412129879,45,98
+878,"Klinikum Nürnberg, Klinikum Nürnberg Süd",VERFUEGBAR,49.412839747136005,11.149226188136,56,100
+879,Krankenhaus Martha-Maria Nürnberg,VERFUEGBAR,49.482298504852,11.135901188822999,65,95
+880,"St. Theresien-Krankenhaus Nürnberg Gemeinnützige GmbH, St. Theresien-Krankenhaus Nürnberg",VERFUEGBAR,49.469584754836,11.10938465592,60,98
+881,"Schön Klinik Nürnberg Fürth SE & Co. KG, Hauptstandort",VERFUEGBAR,49.449804255207006,10.997906685006999,52,100
+882,Klinikum Fürth,VERFUEGBAR,49.484503758062,10.974964678292,60,99
+883,Malteser Waldkrankenhaus St. Marien,VERFUEGBAR,49.61041490978,11.019758775826002,43,100
+884,"Universitätsklinikum Erlangen, Erlangen Innenstadt",VERFUEGBAR,49.600814436059,11.010412752612,64,97
+885,"KU Kreisklinik Roth, AöR des Landkreises Roth, Hauptstandort",VERFUEGBAR,49.235600046487995,11.0727338785,56,91
+886,"Krankenhäuser Nürnberger Land GmbH, Krankenhaus Lauf",VERFUEGBAR,49.520219956646,11.27939915662,36,97
+887,Sana Klinik Pegnitz GmbH,VERFUEGBAR,49.757486727457,11.527570277444001,53,94
+888,"Klinikum Forchheim - Fränkische Schweiz gGmbH - Standort Forchheim, Standort Forchheim",VERFUEGBAR,49.713719384053,11.079462307698,46,95
+889,"Kreiskrankenhaus St. Anna Höchstadt an der Aisch, Hauptstandort",VERFUEGBAR,49.705675494301005,10.804631155543001,54,92
+890,"Klinikum Forchheim - Fränkische Schweiz gGmbH, Standort Ebermannstadt, Standort Ebermannstadt",VERFUEGBAR,49.779360014783,11.179640293120999,46,91
+891,"Kliniken des Landkreises Neustadt/A.-Bad Windsheim, Klinik Neustadt",VERFUEGBAR,49.58202623012,10.621789151237,36,98
+892,"ANregiomed gKU, Klinikum Ansbach",VERFUEGBAR,49.321165717858,10.558776497874,42,94
+893,Rangauklinik Ansbach,VERFUEGBAR,49.326093965328,10.54033242166,49,96
+894,"ANregiomed gKU, Klinik Dinkelsbühl",VERFUEGBAR,49.074774301407004,10.317812204394,38,93
+895,Klinik Neuendettelsau,VERFUEGBAR,49.293353749032,10.792796444001999,52,97
+896,Klinikum Altmühlfranken Gunzenhausen,VERFUEGBAR,49.107583287499,10.774124622476,48,95
+897,Klinikum Altmühlfranken Weißenburg,VERFUEGBAR,49.034470698732996,10.984474182260001,61,92
+898,Klinikum St. Marien Amberg,VERFUEGBAR,49.447566390886,11.867033385743001,41,100
+899,St. Anna Krankenhaus,VERFUEGBAR,49.504915584592,11.729883151129,39,95
+900,Klinikum Neumarkt,VERFUEGBAR,49.285523487235004,11.451848794554,36,97
+901,Krankenhaus St. Barbara Schwandorf,VERFUEGBAR,49.316471029148,12.114455204983,46,93
+902,Klinikum Weiden,VERFUEGBAR,49.680724035138,12.166752755675,47,95
+903,Krankenhaus Barmherzige Brüder Regensburg,VERFUEGBAR,49.01692335715,12.064848124965,37,99
+904,Bezirksklinikum Regensburg,VERFUEGBAR,48.998335107528,12.087532639471,60,97
+905,"Caritas-Krankenhaus St. Josef, Hauptstandort",VERFUEGBAR,49.00701517939999,12.118438124689,54,94
+906,"Klinikum der Universität Regensburg (Universitätsklinikum Regensburg), AöR, Universitätsklinikum Regensburg",VERFUEGBAR,48.987983204496004,12.09049057954,43,99
+907,Kreisklinik Wörth an der Donau,VERFUEGBAR,48.999016124676,12.399249851687,63,93
+908,Asklepios Klinik im Städtedreieck,VERFUEGBAR,49.203580939665,12.035078582153,39,96
+909,PASSAUER WOLF Nittenau,VERFUEGBAR,49.192607456992995,12.266209602421,57,98
+910,Goldberg-Klinik Kelheim GmbH,VERFUEGBAR,48.923732945301,11.885162115032001,64,94
+911,Passauer Wolf Bad Gögging - Neurologisches Zentrum für Bewegungsstörungen,VERFUEGBAR,48.819610678566,11.790887296183,61,93
+912,"Sana Kliniken des Landkreises Cham GmbH, Cham",VERFUEGBAR,49.225489176229,12.659627437624,54,91
+913,Klinikum Passau,VERFUEGBAR,48.5646449268,13.445413827830999,38,94
+914,"Kliniken am Goldenen Steig gGmbH, Krankenhaus Freyung",VERFUEGBAR,48.805360146165,13.546157062037,54,94
+915,PASSAUER WOLF Bad Griesbach,VERFUEGBAR,48.429734482689,13.184188127452,63,99
+916,"Landkreis Passau Gesundheitseinrichtungen, 01 Rotthalmünster",VERFUEGBAR,48.354384688772,13.202044129339,43,97
+917,"Klinikum St. Elisabeth Straubing GmbH, Klinikum St. Elisabeth (alleiniger Hauptstandort)",VERFUEGBAR,48.886575201267995,12.591766798123,49,95
+918,Klinik Bogen,VERFUEGBAR,48.909688323637,12.697077512676001,56,97
+919,"DONAUISAR Klinikum Deggendorf-Dingolfing-Landau gKU, DONAUISAR Klinikum Deggendorf",VERFUEGBAR,48.839208256696,12.969461202556,59,99
+920,"Landkreis Passau Gesundheitseinrichtungen, 02 Vilshofen",VERFUEGBAR,48.627799634222,13.198374867407,50,97
+921,"Sana Klinikum Hof GmbH, Standort",VERFUEGBAR,50.302750436122,11.915282785917,45,92
+922,"Klinikum Fichtelgebirge gGmbH, Klinikum Fichtelgebirge - Haus Selb",VERFUEGBAR,50.16874332031,12.118507862124,65,91
+923,"Kliniken HochFranken, Klinik Naila",VERFUEGBAR,50.324750360105,11.720983135755999,45,100
+924,"Kliniken HochFranken, Klinik Münchberg",VERFUEGBAR,50.195354613092,11.793603086589,65,100
+925,"Klinikum Kulmbach, Hauptstandort",VERFUEGBAR,50.118407708058,11.466021895376,38,100
+926,"Klinikum Bayreuth GmbH, Klinikum Bayreuth",VERFUEGBAR,49.94384828447001,11.534236907992,38,98
+927,"Klinikum Fichtelgebirge gGmbH, Klinikum Fichtelgebirge - Haus Marktredwitz",VERFUEGBAR,50.001792732594005,12.067034768852,57,92
+928,"Ilm-Kreis-Kliniken Arnstadt-Ilmenau gGmbH, Standort Ilmenau",VERFUEGBAR,50.679082262556,10.917114811018,57,98
+929,"Klinikum Bamberg, Klinikum Bamberg Betriebsstätte Bruderwald",VERFUEGBAR,49.867722229636,10.891056502805,58,93
+930,"Kliniken des Landkreises Bamberg, Juraklinik Scheßlitz",VERFUEGBAR,49.979080700381004,11.038270711833,37,92
+931,"Kliniken des Landkreises Bamberg, Steigerwaldklinik Burgebrach",VERFUEGBAR,49.818906610820996,10.731328904612,49,97
+932,"Helmut-G.-Walther-Klinikum Lichtenfels GmbH, Hauptstandort Lichtenfels",VERFUEGBAR,50.138324479783,11.08082020286,38,95
+933,Helios Frankenwaldklinik Kronach,VERFUEGBAR,50.243595963641006,11.332509683816,52,94
+934,"Klinikum Coburg GmbH, Hauptstandort Coburg",VERFUEGBAR,50.247062538779,10.972732543978,44,100
+935,"MEDINOS Kliniken des Landkreises Sonneberg GmbH, Standort Sonneberg",VERFUEGBAR,50.354185704979,11.163156509465,57,98
+936,"Klinikum Würzburg Mitte, Juliusspital",VERFUEGBAR,49.797394228169004,9.930120885355999,43,96
+937,"Klinikum Würzburg Mitte, Missioklinik",VERFUEGBAR,49.794488943104,9.952984034999,49,98
+938,"Universitätsklinikum Würzburg, Hauptstandort UKW",VERFUEGBAR,49.807103506384,9.958309024564,57,100
+939,"Main-Klinik Ochsenfurt gGmbH, Main-Klinik Ochsenfurt",VERFUEGBAR,49.660271915527,10.088237123564,52,97
+940,Klinik Kitzinger Land,VERFUEGBAR,49.743730898713,10.139102518542,41,100
+941,Krankenhaus St. Josef,VERFUEGBAR,50.043851391755,10.225560843928,48,97
+942,"Leopoldina-Krankenhaus der Stadt Schweinfurt, Hauptstandort",VERFUEGBAR,50.051936208683,10.243571877463,60,94
+943,"Haßberg-Kliniken, Haßberg-Kliniken Haus Haßfurt",VERFUEGBAR,50.0403132101,10.514809727702,60,100
+944,"Geomed-Kreisklinik GmbH, Hauptstandort",VERFUEGBAR,49.90032219647,10.355721473825001,37,95
+945,RHÖN-KLINIKUM Campus Bad Neustadt,VERFUEGBAR,50.323552817426005,10.235710926354,64,99
+946,"Thoraxzentrum Bezirk Unterfranken, Münnerstadt - Michelsberg 1",VERFUEGBAR,50.250921615774004,10.178251471371,55,93
+947,"Capio Franz von Prümmer Klinik, Hauptstandort",VERFUEGBAR,50.30745861741,9.784847617125,48,96
+948,"Klinikum Main-Spessart, Klinikum Main-Spessart -Gesundheitszentrum Lohr a. Main-",VERFUEGBAR,49.99611393683,9.572110371664,55,94
+949,"Rotkreuzklinik Wertheim gGmbH, Rotkreuzklinik Wertheim",VERFUEGBAR,49.760650665997,9.497476019897,38,98
+950,"Krankenhaus Tauberbischofsheim, Krankenhaus und Heime Main-Tauber",VERFUEGBAR,49.629249252726005,9.673846542819,41,98
+951,Caritas-Krankenhaus Bad Mergentheim,VERFUEGBAR,49.490775510161,9.763119578329,37,97
+952,"SRH Zentralklinikum Suhl GmbH, Hauptstandort",VERFUEGBAR,50.602327746440004,10.708873987132,62,91
+953,Elisabeth Klinikum Schmalkalden GmbH,VERFUEGBAR,50.722266655704004,10.441875636561,49,93
+954,"HELIOS Klinikum Meiningen GmbH, Meiningen",VERFUEGBAR,50.557756016505,10.397240889115,65,91
+955,"Henneberg-Kliniken-Betriebsgesellschaft mbH, Hauptstandort Hildburghausen",VERFUEGBAR,50.428978013987,10.727969169748,61,98
+956,Helios Klinikum Erfurt GmbH,VERFUEGBAR,50.994088107173994,11.011598825553,37,97
+957,"Katholisches Krankenhaus ""St. Johann Nepomuk"" Erfurt",VERFUEGBAR,50.947252843259,11.085595071299,52,94
+958,Sophien- und Hufeland-Klinikum gGmbH,VERFUEGBAR,50.961440439847,11.322625583428,58,93
+959,Zentralklinik Bad Berka GmbH,VERFUEGBAR,50.889708717078,11.266985893381,62,93
+960,Helios Klinik Blankenhain,VERFUEGBAR,50.859854352109004,11.339337408526001,53,93
+961,"Robert-Koch-Krankenhaus Apolda GmbH, Hauptstandort",VERFUEGBAR,51.012816415283005,11.512378044426,36,93
+962,"KMG Klinikum Thueringen Brandenburg gGmbH, KMG Klinikum Sömmerda",VERFUEGBAR,51.162401081792005,11.121486782995,56,99
+963,Südharz Klinikum Nordhausen gGmbH,VERFUEGBAR,51.515688277956,10.795015275462001,57,100
+964,Lungenklinik Neustadt,VERFUEGBAR,51.560000720476,10.839835524657,57,95
+965,"St. Georg Klinikum Eisenach gGmbH, St. Georg Klinikum Eisenach",VERFUEGBAR,50.988709241383,10.315021634069,46,99
+966,"Helios Klinikum Gotha, Gotha",VERFUEGBAR,50.928445666316,10.678103685477,65,92
+967,"SRH Krankenhaus Waltershausen-Friedrichroda GmbH, Standort Friedrichroda",VERFUEGBAR,50.860803202652995,10.560184549395,52,98
+968,"Hufeland Klinikum GmbH, Bad Langensalza",VERFUEGBAR,51.105295370836004,10.649081647421,53,98
+969,"Hufeland Klinikum GmbH, Mühlhausen",VERFUEGBAR,51.201241841668995,10.467689216162,41,97
+970,"Sächsisches Krankenhaus Arnsdorf, Arnsdorf",BEGRENZT,51.095021846438996,13.997342705743,19,85
+971,ELBLAND Reha- und Präventionsklinik Großenhain,BEGRENZT,51.287179914400994,13.539129138025999,21,85
+972,"Sächsische Schweiz Klinik Sebnitz, Hauptstandort",BEGRENZT,50.982949872332,14.266479420685,31,87
+973,Krankenhaus Bautzen,BEGRENZT,51.184840946877,14.430270552603,6,81
+974,Krankenhaus Spremberg,BEGRENZT,51.56491295504001,14.373822927410002,12,86
+975,"Sana Kliniken Leipziger Land GmbH, Klinikum Borna",BEGRENZT,51.134329159685,12.504938006368,21,84
+976,"HELIOS Kliniken Mansfeld-Südharz GmbH, HELIOS Klinik Sangerhausen",BEGRENZT,51.472159070499,11.309538334363001,29,86
+977,"Thüringen Kliniken ""Georgius Agricola"" GmbH, Standort  Saalfeld",BEGRENZT,50.644160833943005,11.343892335826002,33,87
+978,Paracelsus-Klinik Zwickau,BEGRENZT,50.72244155484999,12.471148610148001,24,88
+979,Klinikum Obergöltzsch Rodewisch,BEGRENZT,50.522910469028,12.410663187519999,10,86
+980,"Rudolf Virchow Klinikum Glauchau gGmbH, Hauptstandort",BEGRENZT,50.80949752165999,12.551699638334,10,86
+981,"Paracelsus-Klinik Reichenbach GmbH, Paracelsus-Klinik Reichenbach",BEGRENZT,50.613313725677,12.309647440943,13,88
+982,Kreiskrankenhaus Stollberg gGmbH,BEGRENZT,50.717485916982,12.788592016677,21,81
+983,"Vivantes ? Netzwerk für Gesundheit GmbH, Wenckebach-Klinikum",BEGRENZT,52.458933342177,13.389266073737,14,89
+984,"Vivantes ? Netzwerk für Gesundheit GmbH, Auguste-Viktoria-Klinikum",BEGRENZT,52.463038638404,13.345513236582,9,89
+985,"Krankenhaus Bethel Berlin gGmbH, Krankenhaus Bethel Berlin",BEGRENZT,52.43255291529,13.325926780717001,31,87
+986,"Caritas-Klinik Maria Heimsuchung Berlin Pankow, Caritas-Klinik Maria Heimsuchung Berlin-Pankow",BEGRENZT,52.57138797223,13.413936280011999,23,88
+987,"Deutsches Herzzentrum Berlin, Hauptstandort",BEGRENZT,52.542387394849,13.347768545282,22,81
+988,"MEDIAN Klinik Berlin Kladow, Fachkrankenhaus f. neurologische Frührehabilitation, MEDIAN Klinik BErlin Kladow; Fachkrankenhaus für neurologische Frührehabilitation",BEGRENZT,52.462407114595,13.161750912077,32,81
+989,"St. Josefs-Krankenhaus Potsdam, Haupstandort Potsdam",BEGRENZT,52.39920968442,13.044046998057,23,86
+990,"ASKLEPIOS Fachklinikum Brandenburg, Hauptstandort",BEGRENZT,52.426059107899,12.479138523304,12,82
+991,Klinik Ernst von Bergmann Bad Belzig,BEGRENZT,52.140473185179005,12.598607182535998,25,86
+992,"Johanniter-Krankenhaus im Fläming Treuenbrietzen GmbH, Hauptstandort Treuenbrietzen",BEGRENZT,52.081284590059994,12.875867664798,27,83
+993,"MEDIAN Klinik Grünheide, Hauptstandort",BEGRENZT,52.424282933774,13.813520193035,31,85
+994,"ASKLEPIOS Fachklinikum Teupitz, Hauptstandort",BEGRENZT,52.132198842072,13.616511300133,24,81
+995,"ASKLEPIOS Fachklinikum Lübben, Hauptstandort",BEGRENZT,51.935179648208,13.886969163777001,28,82
+996,Asklepios Klinikum Uckermark,BEGRENZT,53.052767404681,14.275908780051001,22,88
+997,"KMG Klinikum Mitte GmbH, KMG Klinikum Mitte GmbH Klinikum Pritzwalk",BEGRENZT,53.148539865618,12.169218778545,23,84
+998,"DRK-Krankenhaus Mecklenburg-Strelitz gGmbH, Neustrelitz",BEGRENZT,53.380587745061,13.05248388639,34,81
+999,"Helios-Klinik-Leezen, Standort Leezen",BEGRENZT,53.660304275963,11.491370379907998,7,86
+1000,"Westmecklenburg Klinikum Helene von Bülow GmbH, Krankenhaus Ludwigslust",BEGRENZT,53.331157140776995,11.498286724172,14,89
+1001,"BG Klinikum Hamburg gGmbH, Hauptstandort",BEGRENZT,53.506161388142004,10.17716681954,11,83
+1002,Krankenhaus Winsen,BEGRENZT,53.350658589121,10.200849652274,15,89
+1003,Evangelisches Krankenhaus Alsterdorf gGmbH,BEGRENZT,53.61408507148501,10.024509000605,13,82
+1004,"DRK-Krankenhaus Mölln-Ratzeburg, Hauptstandort",BEGRENZT,53.689610571125,10.779469728403999,16,85
+1005,Klinik Sulingen,BEGRENZT,52.683974461196,8.805476009829,31,89
+1006,"Aller-Weser-Klinik gGmbH Krankenhaus Verden, Aller-Weser-Klinik Verden",BEGRENZT,52.913489311377,9.231749296123,16,86
+1007,AMEOS Klinikum Mitte Bremerhaven,BEGRENZT,53.552164110652,8.575078547000999,7,83
+1008,"Klinikum Bremen Ost, KBO -Klinikum",BEGRENZT,53.064512794576,8.940360546112,27,83
+1009,MediClin GmbH & Co. KG Zweigniderlassung Soltau,BEGRENZT,52.994267381084995,9.857459628602001,26,87
+1010,"DIAKOVERE Henriettenstift, Marienstr. 72-90",BEGRENZT,52.369843848971996,9.75360524656,21,85
+1011,Sana Klinikum Hameln-Pyrmont,BEGRENZT,52.107513388766,9.352171897954,9,83
+1012,Klinikum Herford AöR,BEGRENZT,52.126395097108,8.700473427789,16,89
+1013,"Johannes Wesling Klinikum Minden, Johannes Wesling Klinikum",BEGRENZT,52.260865575309,8.890478275607,7,84
+1014,"Neurologische Klinik Westend Bad Wildungen, Hauptstandort",BEGRENZT,51.112182970769,9.108039915545,16,85
+1015,"Klinik- und Rehabilitationszentrum Lippoldsberg GmbH, 382338_Klinik Lippoldsberg",BEGRENZT,51.616797469033,9.590693302453001,26,88
+1016,Klinikum Wolfsburg,BEGRENZT,52.413656561464,10.769416809017,25,89
+1017,"Klinikum in den Pfeifferschen Stiftungen GmbH, Magdeburg",BEGRENZT,52.115985634468004,11.666216611747998,15,86
+1018,"MEDIAN Klinik NRZ Magdeburg, Hauptstandort",BEGRENZT,52.086288647157005,11.638070583376,24,83
+1019,"Universitätsklinikum Magdeburg A.ö.R., Universitätsklinikum Magdeburg A.ö.R. - Leipziger Straße",BEGRENZT,52.101739466325,11.619990133439998,26,88
+1020,KLINIKUM MAGDEBURG gGmbH,BEGRENZT,52.157544889068,11.582455515845,22,82
+1021,"Johanniter Krankenhaus Genthin - Stendal gmbH, Johanniter GmbH Zweigniederlassung Stendal Johanniter - Krankenhaus Stendal - Hauptstandort",BEGRENZT,52.611667330216996,11.853254556589999,27,85
+1022,"Sana Kliniken Düsseldorf, Sana Krankenhaus Benrath",BEGRENZT,51.15261062478599,6.870933508035001,18,87
+1023,St.-Johannes-Hospital Dortmund,BEGRENZT,51.51152274977,7.457698702829,11,84
+1024,"Klinikum Westfalen GmbH - KKDO, KaP, HK, Knappschaftskrankenhaus Dortmund",BEGRENZT,51.519954398832,7.533110618624001,17,87
+1025,Knappschaftskrankenhaus Lütgendortmund,BEGRENZT,51.501973397817004,7.330100655571999,10,81
+1026,"St. Lukas Klinikum, St. Rochus-Hospital",BEGRENZT,51.546553557540996,7.315626919253,27,87
+1027,"Evangelisches Krankenhaus Herne, Herne-Mitte",BEGRENZT,51.534453885173996,7.230587482518,27,83
+1028,Martin-Luther-Krankenhaus gGmbH,BEGRENZT,51.481889023386,7.1426619887189995,21,88
+1029,"KEM I Evang. Kliniken Essen-Mitte gGmbH, Evang. Huyssens-Stiftung in Essen-Huttrop",BEGRENZT,51.441965400604,7.030423083343001,25,85
+1030,"Elisabeth-Krankenhaus Essen GmbH, Elisabeth-Krankenhaus Essen",BEGRENZT,51.44546526290301,7.033164024288,13,89
+1031,"Universitätsklinikum Essen, Herzchirurgie Huttrop",BEGRENZT,51.445431828659004,7.03426161781,20,85
+1032,"Katholisches Klinikum Essen GmbH, St. Vincenz-Krankenhaus",BEGRENZT,51.474774496472996,7.0334196388559995,24,89
+1033,"KEM I Evang. Kliniken Essen-Mitte gGmbH, Evang. Krankenhaus Essen-Steele",BEGRENZT,51.44219026249001,7.06172844395,20,83
+1034,"Katholische Kliniken Emscher-Lippe GmbH, St. Barbara-Hospital Gladbeck",BEGRENZT,51.574207398182004,6.987962918356001,22,81
+1035,Marien-Hospital gGmbH,BEGRENZT,51.655656995976,6.611606061442,20,84
+1036,"Helios Klinikum Krefeld gGmbH, Helios Cäcilien Hospital Hüls",BEGRENZT,51.376167951066996,6.514596462266001,18,85
+1037,"Hospital zum Heiligen Geist GmbH & Co KG, Hospital zum Heiligen Geist",BEGRENZT,51.36301421363,6.411147737163,26,89
+1038,Fachklinik Hornheide,BEGRENZT,52.01326383455,7.709048509532,6,82
+1039,Helios Klinik Lengerich,BEGRENZT,52.19879125876,7.843791612904,34,82
+1040,St. Anna Klinik Löningen,BEGRENZT,52.734531165591,7.754152536327,14,82
+1041,"Sana-Krankenhaus Hürth GmbH, Hauptstandort inkl. ZNA",BEGRENZT,50.883974250065,6.887293696436,20,81
+1042,"IK Eduardus-Krankenhaus, Eduardus-Krankenhaus",BEGRENZT,50.932754731464,6.9802542496469995,14,83
+1043,St. Franziskus-Hospital GmbH,BEGRENZT,50.954000072691,6.917174644768,25,87
+1044,St. Antonius Krankenhaus,BEGRENZT,50.910195081295996,6.966396331754,7,89
+1045,"Kliniken der Stadt Köln Standort Holweide, Kliniken der Stadt Köln gGmbH - Krankenhaus Holweide",BEGRENZT,50.966947683362,7.055555105144,31,83
+1046,"Krankenhaus Porz am Rhein gGmbH, Hauptstandort",BEGRENZT,50.892672968533,7.0513472558379995,26,88
+1047,"Katholische Kliniken Oberberg gGmbH, St. Josef-Krankenhaus",BEGRENZT,50.985778797605,7.378701209891,7,84
+1048,"St.-Antonius-Hospital gGmbH Eschweiler, Hauptstandort",BEGRENZT,50.818603278644,6.264195620997,30,89
+1049,"St.Marien-Hospital  gGmbH, St. Marien-Hospital Haupteingeng",BEGRENZT,50.822419271205995,6.466680407557,16,86
+1050,"Universitätsklinikum Bonn, Universitätsklinikum Bonn Zentrum für Kinderheilkunde",BEGRENZT,50.724600809339,7.114107513315999,13,88
+1051,"Malteser Krankenhaus Seliger Gerhard Bonn/Rhein-Sieg, Hauptstandort",BEGRENZT,50.707350281652005,7.031852826476,23,89
+1052,"GFO Kliniken Troisdorf, GFO Kliniken Troisdorf Betriebsstätte St. Johannes Troisdorf-Sieglar",BEGRENZT,50.797371822967996,7.117432379688999,30,87
+1053,Marien-Hospital Euskirchen GmbH,BEGRENZT,50.641932625809005,6.790844678944,27,86
+1054,"Klinikum Idar-Oberstein GmbH, Klinikum Idar-Oberstein",BEGRENZT,49.716390274005,7.321047918506,29,87
+1055,DRK Krankenhaus Neuwied,BEGRENZT,50.429620465377,7.465375184947,33,85
+1056,St. Marien-Krankenhaus Siegen,BEGRENZT,50.879455893095,8.030419528468,11,88
+1057,"Diakonie Klinikum GmbH, Diakonie Klinikum Jung-Stilling",BEGRENZT,50.851210467588,8.018403768474,16,86
+1058,"Katholisches Klinikum Südwestfalen, St. Josefs-Hospital",BEGRENZT,51.107795031555995,8.069856261827,13,81
+1059,"VAMED Klinik Hagen-Ambrock, Hauptstandort",BEGRENZT,51.314572022932,7.514856040461,16,84
+1060,"Dreifaltigkeits-Hospital gem. GmbH, Dreifaltigkeits-Hospital Lippstadt",BEGRENZT,51.673275388369,8.338460504992,8,83
+1061,"Klinikum Hochsauerland GmbH, Karolinen-Hospital",BEGRENZT,51.426699371377,7.999139472838,15,82
+1062,"St. Franziskus-Hospital gGmbH Winterberg, St. Franziskus-Hospital Winterberg gGmbH",BEGRENZT,51.193310232525995,8.5381085872,10,83
+1063,"Sankt Katharinen Krankenhaus, Sankt-Katharinen-Krankenhaus",BEGRENZT,50.136002538494,8.710909581377999,17,86
+1064,"St. Elisabethen- Krankenhaus Frankfurt, St. Elisabethen Krankenhaus",BEGRENZT,50.125998483533,8.638223656453,13,89
+1065,"Krankenhaus Nordwest, Hauptstandort",BEGRENZT,50.150831199822996,8.617667734607,10,88
+1066,"Krankenhaus Sachsenhausen in Frankfurt am Main, Hauptstandort",BEGRENZT,50.106522133041,8.683677435019,10,88
+1067,"Gesundheitszentrum Wetterau Bad Nauheim-Friedberg-Gedern, Hochwald Kranknehaus Bad Nauheim",BEGRENZT,50.356723578628,8.729891359789999,18,84
+1068,"Klinikum Hanau GmbH, Klinikum Hanau",BEGRENZT,50.133500371191,8.922372043115999,13,83
+1069,Asklepios Klinik Seligenstadt,BEGRENZT,50.041686138227995,8.964987516338,13,89
+1070,"Main-Kinzig-Kliniken gGmbH Gelnhausen, Hauptstandort",BEGRENZT,50.205683900094,9.182054400198,28,84
+1071,Capio Mathilden-Hospital,BEGRENZT,50.2875552657,9.113715486601,19,83
+1072,"Kreiskrankenhaus Erbach, Hauptstandort",BEGRENZT,49.651827831428,9.000306844646,19,82
+1073,"Kreiskliniken Darmstadt-Dieburg, Groß-Umstadt",BEGRENZT,49.867388623281,8.936789989602,19,87
+1074,"St. Josefs-Hospital Rheingau GmbH, Rüdesheim am Rhein",BEGRENZT,49.982859678145,7.926482319881001,10,89
+1075,"St. Vincenz-Krankenhaus Diez, St. Vincenz Krankenhaus Diez",BEGRENZT,50.374190667258,8.00911581513,20,82
+1076,"Marienhausklinik St. Josef Kohlhof, Standort Kohlhof",BEGRENZT,49.317814087963,7.227321624887001,28,82
+1077,"Marienhausklinik Ottweiler, Hauptstandort",BEGRENZT,49.401578306916,7.167375326188999,20,83
+1078,"Westpfalz-Klinikum Kaiserslautern - Kusel, Westpfalz-Klinikum StO Kusel",BEGRENZT,49.546522077799,7.376882135868,23,89
+1079,"Westpfalz-Klinikum Kirchheimbolanden - Rockenhausen, Westpfalz-Klinikum StO Kirchheimbolanden",BEGRENZT,49.659099503063004,8.007584407922,10,85
+1080,"Westpfalz-Klinikum Kirchheimbolanden - Rockenhausen, Westpfalz-Klinikum StO Rockenhausen",BEGRENZT,49.630476675089,7.81535089016,19,82
+1081,"Theresienkrankenhaus und St. Hedwig-Klinik gGmbH, Theresienkrankenhaus",BEGRENZT,49.489247503462,8.482151806338,9,87
+1082,"St. Vincentius-Krankenhaus gGmbH, St. Vincentius-Krankenhaus Heidelberg gGmbH",BEGRENZT,49.412011536547006,8.697675829926,27,83
+1083,Krankenhaus Leonberg,BEGRENZT,48.802883376299,9.00049889091,29,87
+1084,Orthopädische Klinik Markgröningen,BEGRENZT,48.908406696339,9.107439100726,34,87
+1085,"Universitätsklinikum Tübingen, Hauptstandort",BEGRENZT,48.530938538791,9.037610471232,27,84
+1086,"Landkreis Schwäbisch Hall Klinikum gGmbH, Crailsheim",BEGRENZT,49.135851976355,10.076623678142,7,83
+1087,"Hohenloher Krankenhaus gGmbH, Hohenloher Krankenhaus Öhringen",BEGRENZT,49.205361466111,9.498054563983,30,88
+1088,GRN-Klinik Sinsheim,BEGRENZT,49.251958261548005,8.890484064809,11,88
+1089,"Kliniken des Landkreises Karlsruhe, Rechbergklinik Bretten",BEGRENZT,49.033677622777006,8.695703923686,16,85
+1090,Krankenhaus Mühlacker,BEGRENZT,48.950587923838995,8.860212922064001,34,81
+1091,"Klinikum Mittelbaden Rastatt-Forbach, Klinikum Mittelbaden Rastatt-Forbach Standort Rastatt",BEGRENZT,48.861438048179,8.205321013911,31,82
+1092,"Helios Klinik Müllheim, HELIOS- Klinik Müllheim",BEGRENZT,47.811938667118,7.635110199435,33,86
+1093,Maria-Theresia-Klinik,BEGRENZT,48.126669312158,11.549293111275,14,87
+1094,Barmherzige Brüder Krankenhaus München,BEGRENZT,48.155701228804,11.510060548717,15,88
+1095,"Helios Klinikum München West GmbH, Helios Klinikum München West",BEGRENZT,48.14484961579701,11.454206295312,29,83
+1096,"Klinikum der Universität München, Klinikum der Universität München - Außenstelle Augustinum",BEGRENZT,48.122446592812004,11.488039076312,8,84
+1097,"Klinikum der Universität München, Klinikum der Universität München - Standort Großhadern",BEGRENZT,48.111138440404,11.471995174934001,9,89
+1098,"Schön Klinik München Harlaching, Hauptstandort",BEGRENZT,48.104062192855,11.566836476359,10,89
+1099,"Klinikum Seefeld, Klnikum Seefeld Notaufnahme",BEGRENZT,48.034096281851,11.213358879122,15,81
+1100,Klinikum Starnberg,BEGRENZT,48.007069191041005,11.335193395680001,13,88
+1101,"Benedictus Krankenhaus Tutzing GmbH & Co. KG       Akut (Tutzing), Tutzing",BEGRENZT,47.907029340944995,11.276558160716,8,85
+1102,"Kinderkrankenhaus St. Marien gGmbH, Hauptstandort",BEGRENZT,48.534474830429,12.164453029764,9,87
+1103,Klinik Mallersdorf,BEGRENZT,48.777976386205,12.246359109813001,17,85
+1104,Krankenhaus Vilsbiburg,BEGRENZT,48.445338693962,12.360019862636001,16,82
+1105,"KJF Klinik Josefinum gGmbH, Hauptstandort Augsburg",BEGRENZT,48.385064554485,10.874889850747001,32,82
+1106,"Kreiskrankenhaus Schrobenhausen GmbH, Hauptstandort",BEGRENZT,48.572270325445004,11.264355933213,33,81
+1107,"Donau-Ries Kliniken, Donau-Ries Klinik Oettingen",BEGRENZT,48.956965663396,10.597310185448999,29,84
+1108,"RKU - Universitäts- und Rehabilitationskliniken  Ulm, Hauptstandort",BEGRENZT,48.42440919851,9.945088148052,7,81
+1109,"Kreisspitalstiftung Weißenhorn - Donauklinik Neu-Ulm, Donauklinik Neu-Ulm",BEGRENZT,48.393922246459,9.993973016772,9,82
+1110,"Kliniken Dr. Erler, Hauptstandort",BEGRENZT,49.453772431917,11.067578458315001,22,89
+1111,"Krankenhäuser Nürnberger Land GmbH, Krankenhaus Altdorf",BEGRENZT,49.38510192637,11.359442710908999,25,82
+1112,"Krankenhaus Rummelsberg GmbH, Krankenhaus Rummelsberg",BEGRENZT,49.362132616063995,11.263945341143,34,84
+1113,"Klinikum am Europakanal, Erlangen",BEGRENZT,49.604506581416,10.968613207324,11,84
+1114,"Krankenhaus Schwabach gGmbH, Krankenhaus Schwabach",BEGRENZT,49.332652542007,11.01252150529,16,82
+1115,"Klinik Donaustauf, Klinik Donaustauf - Krankenhaus",BEGRENZT,49.036663461566,12.207836117595,10,82
+1116,"Kliniken Dritter Orden gGmbH, Standort Kinderklinik Passau, Kinderklinik Dritter Orden Passau",BEGRENZT,48.566439437968995,13.446212589724,8,83
+1117,"Kliniken am Goldenen Steig gGmbH, Krankenhaus Grafenau",BEGRENZT,48.859193454945,13.392777621730001,8,83
+1118,"Klinikum Bayreuth GmbH, Klinik Hohe Warte Bayreuth",BEGRENZT,49.96700357452,11.584785819086001,29,85
+1119,"Schön Klinik Bad Staffelstein SE & Co. KG, Hauptstandort",BEGRENZT,50.111161470424996,10.992414593729,26,89
+1120,"Bezirksklinikum Obermain, Bezirksklinikum Obermain, Kutzenberg",BEGRENZT,50.049011777247,10.972507238420999,8,89
+1121,"Ilm-Kreis-Kliniken Arnstadt-Ilmenau gGmbH, Standort Arnstadt",BEGRENZT,50.8394332429,10.941328201443,6,84
+1122,"Sächsisches Krankenhaus Großschweidnitz, SKH Großschweidnitz",NICHT_VERFUEGBAR,51.075454656450994,14.644254036248,4,62
+1123,MediClin Waldkrankenhaus Bad Düben,NICHT_VERFUEGBAR,51.598074154315995,12.581506490641999,2,73
+1124,"Helios Klinik Köthen GmbH, Hauptstandort",NICHT_VERFUEGBAR,51.746566790074,11.972611034034,1,74
+1125,"AMEOS Klinikum Aschersleben-Staßfurt GmbH, AMEOS Klinikum Aschersleben",NICHT_VERFUEGBAR,51.745959978876,11.457869052920001,0,74
+1126,"DRK Krankenhaus Lichtenstein GmbH, DRK Krankenhaus Lichtenstein Gemeinnützige GmbH",NICHT_VERFUEGBAR,50.748187961400006,12.635738611352,2,70
+1127,"Vivantes ? Netzwerk für Gesundheit GmbH, Humboldt-Klinikum",NICHT_VERFUEGBAR,52.589849052234,13.308975112432,0,70
+1128,"Vivantes ? Netzwerk für Gesundheit GmbH, Klinikum Spandau",NICHT_VERFUEGBAR,52.550156762079,13.206896755114,0,72
+1129,"Krankenhaus Märkisch- Oderland GmbH, Wriezen 02",NICHT_VERFUEGBAR,52.721589984593,14.127299282627002,0,71
+1130,"BDH-Klinik Greifswald gGmbH, Hauptstandort",NICHT_VERFUEGBAR,54.089949792269,13.410030126506,0,75
+1131,Helios Kliniken Schwerin GmbH,NICHT_VERFUEGBAR,53.651229285586005,11.406590098276999,4,64
+1132,"Regio Kliniken GmbH, Regio Klinikum Pinneberg",NICHT_VERFUEGBAR,53.654589771865,9.811318659622,3,79
+1133,"Vinzenzkrankenhaus Hannover GmbH, Hauptstandort",NICHT_VERFUEGBAR,52.359111974164,9.814378201944999,4,69
+1134,BDH-Klinik Hessisch Oldendorf gGmbH,NICHT_VERFUEGBAR,52.173538968831,9.249765023585,1,77
+1135,"Krankenhaus Lübbecke-Rahden, 01 Lübbecke - Virchowstraße",NICHT_VERFUEGBAR,52.296241420517,8.603555392638,4,77
+1136,"Johannes Wesling Klinikum Minden, 02 Rahden - Hohe Mühle",NICHT_VERFUEGBAR,52.430507725111,8.61068096001,4,68
+1137,"Auguste Viktoria Klinik, Auguste-Viktoria-Klinik",NICHT_VERFUEGBAR,52.206763235494,8.787186670261,3,67
+1138,Krankenhaus Bad Oeynhausen,NICHT_VERFUEGBAR,52.193268327416,8.797191046068999,3,71
+1139,"Klinikum Weser-Egge, St. Rochus Krankenhaus",NICHT_VERFUEGBAR,51.856601380292,9.089313268514001,4,61
+1140,"Klinikum Weser-Egge, St. Vincenz Hospital",NICHT_VERFUEGBAR,51.727699949219996,9.180609682148,0,64
+1141,Vitos Orthopädische Klinik Kassel gGmbH,NICHT_VERFUEGBAR,51.312296957311,9.430117964712,0,72
+1142,"Main-Kinzig-Kliniken gGmbH Schlüchtern, Hauptstandort",NICHT_VERFUEGBAR,50.353187255085004,9.527116030422,0,70
+1143,"m&i-Fachklinik Bad Liebenstein, Hauptstandort",NICHT_VERFUEGBAR,50.813941312173995,10.353298969567,4,70
+1144,"Helios Bördeklinik GmbH, Hauptstandort",NICHT_VERFUEGBAR,52.06547922827,11.189954996371,4,69
+1145,"Krankenhaus Mörsenbroich-Rath GmbH, Augusta-Krankenhaus",NICHT_VERFUEGBAR,51.266620908964995,6.824413128197,1,69
+1146,"St. Josefs Krankenhaus Hilden, Standort St. Josefs Krankenhaus Hilden",NICHT_VERFUEGBAR,51.168521669350994,6.942881941795,1,63
+1147,"Klinikum Vest GmbH, Knappschaftskrankenhaus Recklinghausen",NICHT_VERFUEGBAR,51.620319720706995,7.175755083545001,0,79
+1148,"Vestische Kinder- und Jugendklinik Datteln, Datteln",NICHT_VERFUEGBAR,51.642544400362,7.338056087428,2,61
+1149,"St.-Clemens-Hospital Geldern, St.-Clemens-Hospital",NICHT_VERFUEGBAR,51.528499725763,6.327309285953,3,68
+1150,"St. Josef-Stift Sendenhorst, St. Josef-Stift",NICHT_VERFUEGBAR,51.843295118366,7.821974873559,2,73
+1151,"Krankenhaus St. Raphael, Hauptstandort",NICHT_VERFUEGBAR,52.34435720651,8.229503810389,3,67
+1152,Maria-Hilf-Krankenhaus,NICHT_VERFUEGBAR,50.952567234358995,6.638102531433001,2,72
+1153,Luisenhospital Aachen,NICHT_VERFUEGBAR,50.76760310014,6.076465666310001,2,72
+1154,"St. Elisabeth-Krankenhaus Geilenkirchen, Geilenkirchen",NICHT_VERFUEGBAR,50.965685855475996,6.1238356232480005,4,79
+1155,"Gemeinschaftskrankenhaus Bonn gGmbH, St. Elisabeth Krankenhaus",NICHT_VERFUEGBAR,50.727158491391,7.102605343061,4,75
+1156,"GFO Kliniken Troisdorf, GFO Kliniken Troisdorf Betriebsstätte St. Josef Troisdorf",NICHT_VERFUEGBAR,50.817425951493995,7.159310889033001,2,72
+1157,"Klinikum Westfalen GmbH - KKDO, KaP, HK, Hellmig-Krankenhaus Kamen",NICHT_VERFUEGBAR,51.595414117709,7.662745535389999,3,66
+1158,"Gesundheitszentrum Wetterau Bad Nauheim-Friedberg-Gedern, Bürgerhospital Friedberg",NICHT_VERFUEGBAR,50.33454382913,8.751370489581,3,64
+1159,"Hochtaunus-Kliniken gGmbH, Hochtaunus-Kliniken gGmbH Usingen",NICHT_VERFUEGBAR,50.342836344689,8.530887007746001,2,61
+1160,"Asklepios Neurologische Klinik Bad Salzhausen, Asklepios Neurologische Klinik",NICHT_VERFUEGBAR,50.419434739352,8.988189160872999,1,75
+1161,"Klinikum Aschaffenburg-Alzenau gemeinnützige GmbH, Standort Alzenau",NICHT_VERFUEGBAR,50.069496701481,9.075521886357,0,61
+1162,"Asklepios Schlossberg Klinik Bad König, Hauptstandort",NICHT_VERFUEGBAR,49.74472806966,9.005372303682,0,76
+1163,Marienkrankenhaus St. Wendel,NICHT_VERFUEGBAR,49.454133774318,7.178329467806,0,66
+1164,"Krankenhaus Zum Guten Hirten Ludwigshafen, Hauptstandort",NICHT_VERFUEGBAR,49.487621874989,8.385319299996,0,61
+1165,"Sankt Vincentius Krankenhaus Speyer, Hauptstandort",NICHT_VERFUEGBAR,49.315695817169,8.421648941003,3,63
+1166,"Universitätsklinikum Mannheim Gmbh, Hauptstandort",NICHT_VERFUEGBAR,49.49142711994799,8.487168073589,4,66
+1167,SRH Kurpfalzkrankenhaus Heidelberg GmbH,NICHT_VERFUEGBAR,49.413576853277995,8.653808355266,0,64
+1168,"Robert-Bosch-Krankenhaus, Klinik Schillerhöhe",NICHT_VERFUEGBAR,48.786542816907996,9.074158251268999,4,64
+1169,Neckar-Odenwald-Kliniken gGmbH Krankenhaus Buchen,NICHT_VERFUEGBAR,49.524353475073994,9.308266818507,4,78
+1170,"Kliniken des Landkreises Karlsruhe, Fürst-Stirum-Klinik Bruchsal",NICHT_VERFUEGBAR,49.132336821513995,8.603484213336001,3,72
+1171,Helios Klinik München Perlach GmbH,NICHT_VERFUEGBAR,48.102224465802,11.629772381857,1,75
+1172,InnKlinikum Burghausen,NICHT_VERFUEGBAR,48.168152076472,12.841664001342002,1,64
+1173,"Kliniken an der Paar - Krankenhaus Friedberg, Hauptstandort",NICHT_VERFUEGBAR,48.356108226070994,10.986170947535,3,65
+1174,"Donau-Ries Kliniken, Donau-Ries Klinik Donauwörth",NICHT_VERFUEGBAR,48.724110670375005,10.754439353959,0,67
+1175,"m&i-Fachklinik Herzogenaurach, Hauptstandort",NICHT_VERFUEGBAR,49.577071297512,10.870107002555999,4,61
+1176,"ANregiomed gKU, Klinik Rothenburg",NICHT_VERFUEGBAR,49.377444935873,10.199910879201,3,73
+1177,Arberlandklinik Zwiesel,NICHT_VERFUEGBAR,49.007379382061,13.217880964312,3,75
+1178,Arberlandklinik Viechtach,NICHT_VERFUEGBAR,49.08541733437801,12.875766277330001,3,75
+1179,"DONAUISAR Klinikum Deggendorf-Dingolfing-Landau gKU, DONAUISAR Klinikum Landau",NICHT_VERFUEGBAR,48.665549695572004,12.703128576213,1,73
+1180,"Klinik Bavaria Bad Kissingen, Neurologisches Fach- und Privatkrankenhaus, Hauptstandort",NICHT_VERFUEGBAR,50.198267164412,10.084851589054,3,74
