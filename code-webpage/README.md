@@ -1,6 +1,6 @@
 # BEDACITY WEBPAGE
 
-This project consist in...
+This website is under construction...
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER)
 <p align="center">

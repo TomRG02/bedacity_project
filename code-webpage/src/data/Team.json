@@ -22,22 +22,22 @@
     },
     {
         "memberId": 4,
-        "name": "Tomás Ramírez",
-        "track": "Web Development",
+        "name": "Johannes Baur",
+        "track": "User Experience (UX)",
         "abilities": "Habilidades",
         "src": "../images/Team/test.jpg"
     },
     {
         "memberId": 5,
-        "name": "Tomás Ramírez",
-        "track": "Web Development",
+        "name": "John Pairazamán",
+        "track": "Data Science",
         "abilities": "Habilidades",
         "src": "../images/Team/test.jpg"
     },
     {
         "memberId": 6,
-        "name": "Tomás Ramírez",
-        "track": "Web Development",
+        "name": "Gean Bonifacio",
+        "track": "Artificial Intelligence (AI)",
         "abilities": "Habilidades",
         "src": "../images/Team/test.jpg"
     }

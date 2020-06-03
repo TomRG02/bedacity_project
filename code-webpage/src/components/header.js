@@ -16,8 +16,16 @@ const Header = () => {
   
   return(
     <header>
-      <h1 className={headerStyles.title}>{data.site.siteMetadata.title}</h1>
-      <p className={headerStyles.subtitle}>{data.site.siteMetadata.description}</p>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <h1 className={headerStyles.title}>{data.site.siteMetadata.title}</h1>
+          </div>
+          <div class="col-md-8 align-middle">            
+            <p className={headerStyles.subtitle}>{data.site.siteMetadata.description}</p>
+          </div>
+        </div>
+      </div>     
     </header>
   )
 }

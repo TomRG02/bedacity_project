@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Bedacity`,
-    description: `This project attend the problem 04 of #CodeChallenge for TechLabs.`,
+    title: `BEDACITY`,
+    description: `Report on the capacity of beds and personnel available in hospitals during times of crisis.`,
     author: `Team (Group 12)`,
   },
   plugins: [
@@ -26,13 +26,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `BEDACITY Project`,
+        short_name: `BEDACITY`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/bedacity-icon.png`, // This path is relative to the root of the site.
       },      
     },
     `gatsby-transformer-json`,
