@@ -6,9 +6,7 @@ This website is under construction...
 
 Capture from this website...
 
-![Captura][1]
-
-[1]: ./src/images/Captura.png
+<img src="./src/images/Captura.png" />
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER)
 <p align="center">
