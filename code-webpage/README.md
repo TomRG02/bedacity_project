@@ -6,7 +6,7 @@ This website is under construction...
 
 Capture from this website...
 
-<img src="./src/images/Captura.png" />
+<img src="https://raw.githubusercontent.com/TomRG02/bedacity_project/master/code-webpage/src/images/Captura.PNG" />
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER)
 <p align="center">
