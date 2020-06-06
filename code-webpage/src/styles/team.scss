@@ -1,12 +1,26 @@
 @import "~bootstrap/scss/bootstrap";
 
 .card {    
-    width: 32rem;    
+    //width: 100%;
+    height: 35rem;
     position: relative;
     margin: 1rem;
+    border: 3px solid lightblue;
+    border-radius: 3%;
+    box-shadow: 4px 4px 10px #80808070;
+    
+    .card-title {
+        color: #3D64AD;;
+        font-size: 2rem;
+        margin-top: 1rem;
+        text-align: center;
+    }
 }
 
 .card-img {
-    height: 20rem;
-    width: 20rem;    
+    width: 100%;
+    border-radius: 50%;
+    //height: 20rem;
+    //width: 20rem;    
+    //justify-content: center;
 }

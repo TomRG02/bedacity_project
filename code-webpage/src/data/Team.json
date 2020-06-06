@@ -24,21 +24,21 @@
         "memberId": 4,
         "name": "Johannes Baur",
         "track": "User Experience (UX)",
-        "abilities": "Habilidades",
-        "src": "../images/Team/test.jpg"
+        "abilities": "Ideation, user research, personas, user stories, story boards, wireframing, prototyping, UX testing",
+        "src": "../images/Team/johannes.jpg"
     },
     {
         "memberId": 5,
         "name": "John Pairazamán",
         "track": "Data Science",
         "abilities": "Habilidades",
-        "src": "../images/Team/test.jpg"
+        "src": "../images/Team/john.jpg"
     },
     {
         "memberId": 6,
         "name": "Gean Bonifacio",
         "track": "Artificial Intelligence (AI)",
         "abilities": "Habilidades",
-        "src": "../images/Team/test.jpg"
+        "src": "../images/Team/gean.png"
     }
 ]

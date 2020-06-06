@@ -14,7 +14,7 @@ const TeamPage = () => {
           abilities
           src {
             childImageSharp {
-              fluid(maxWidth: 300) {
+              fluid(maxWidth: 1000) {
                 ...GatsbyImageSharpFluid
               }
             }
@@ -26,27 +26,27 @@ const TeamPage = () => {
 
   return(
     <Layout>
-      <h2>Our Team Group</h2>
-      <p>This is a team page!</p>      
-      
-      <div className="container-fluid">
-          <div className="row">
-              { /* Map JSON */
-                  data.allTeamJson.nodes.map(member => (
-                      <div className="col-md-6">
-                          <div className="card mx-auto">
-                              <div className="card-body">
-                                  <Img className="card-img" fluid={member.src.childImageSharp.fluid} />
-                                  <h5 className="card-title">{member.name}</h5>
-                                  <p className="card-text"><strong>Track:</strong> {member.track}</p>
-                                  <p className="card-text"><strong>Abilities: </strong>{member.abilities}</p>
-                              </div>
-                          </div>                                
-                      </div>    
-                  ))
-              } {/* End Map JSON */}
-          </div> {/* End Row */}
-      </div> {/* End Container-Fluid */}
+      <div style={{margin: "0 1.5rem"}}>
+        <h1>Our Team Group</h1>       
+        <div className="container-fluid">
+            <div className="row">
+                { /* Map JSON */
+                    data.allTeamJson.nodes.map(member => (
+                        <div className="col-md-4">
+                            <div className="card mx-auto">
+                                <div className="card-body">
+                                    <Img className="card-img img-fluid" fluid={member.src.childImageSharp.fluid} />
+                                    <h5 className="card-title">{member.name}</h5>
+                                    <p className="card-text"><strong>Track:</strong> {member.track}</p>
+                                    <p className="card-text"><strong>Abilities: </strong>{member.abilities}</p>
+                                </div>
+                            </div>                                
+                        </div>    
+                    ))
+                } {/* End Map JSON */}
+            </div> {/* End Row */}
+        </div> {/* End Container-Fluid */}
+      </div>
     </Layout>
   )
 }

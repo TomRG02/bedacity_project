@@ -10,7 +10,7 @@ const ChallengePage = () => {
     return(
         <Layout>
             <div style={{margin: "0 1.5rem"}}>
-                <h2>About Challenge</h2>
+                <h1>About Challenge</h1>
                 <br/>
                 <div class="container-fluid">
                     <div class="row">
